@@ -1,0 +1,98 @@
+/* Colors */
+:root {
+	--bg-color: #121212;
+	--dark-color: #0077B6;
+	--light-color: #C6D8FF;
+	--layer-color: rgba(255, 255, 255, .1);
+}
+
+/* Overall */
+body {
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	background-color: var(--bg-color);
+	color: white;
+}
+
+/***********/
+/* Sidebar */
+/***********/
+#sidebar {
+	position: fixed;
+	left: 0px;
+	height: 100%;
+	width: 300px;
+	background-color: var(--layer-color);
+}
+
+#sidebar img {
+	width: 100%;
+}
+
+#sidebar h2 {
+	text-align: center;
+}
+
+#sidebar h3 {
+	text-align: center;
+	padding: 0 30px;
+}
+
+/* Navigation */
+#nav {
+	list-style-type: none;
+	padding-left: 0;
+	border: 1px solid var(--dark-color);
+}
+
+#nav > li {
+	border: 1px solid var(--dark-color);
+	background-color: var(--layer-color);
+}
+
+#nav a {
+	display: block;
+	color: inherit;
+	text-decoration: inherit;
+	color: white;
+}
+
+#nav i {
+	text-align: center;
+	width: 25px;
+	font-size: 20px;
+	padding: 10px;
+	border-right: 1px solid var(--dark-color);
+	margin-right: 10px;
+	color: var(-light-color);
+}
+
+#nav a[href="#"] {
+	color: var(--light-color);
+	font-weight: bold;
+}
+
+#nav a[href="#"] i {
+	color: var(--light-color);
+}
+
+/* Socials */
+#links {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	list-style-type: none;
+	margin: 0;
+	padding: 0px 30px;
+	overflow: hidden;
+}
+
+#links > li {
+	float: left;
+}
+
+#links i {
+	font-size: 30px;
+	padding: 10px;
+	color: var(--light-color);
+}
