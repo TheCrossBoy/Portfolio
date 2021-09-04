@@ -1,0 +1,30 @@
+<div class="project">
+	<div class="project-header">
+		<h2>{{title}}</h2>
+		<p>{{date}}</p>
+	</div>
+	<ul class="project-tags">
+		{{#languages}}
+			<li class="tag language">{{.}}</li>
+		{{/languages}}
+		{{#tags}}
+			<li class="tag">{{.}}</li>
+		{{/tags}}
+	</ul>
+	<div class="project-details">
+		<ul class="project-bullets">
+			{{#details}}
+				<li>{{.}}</li>
+			{{/details}}
+		</ul>
+		<ul class="project-urls">
+			{{#urls}}
+				<li><a href="{{.}}" target="_blank" rel="noopener">{{.}}</a></li>
+			{{/urls}}
+		</ul>
+	</div>
+	<div class="project-footer">
+		<i class="fas fa-caret-down"></i>
+		<h3>Show Details</h3>
+	</div>
+</div>

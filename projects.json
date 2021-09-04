@@ -1,0 +1,25 @@
+[
+	{
+	   "title": "Resume Website",
+	   "date": "2021",
+	   "languages": [
+			"HTML",
+			"CSS",
+			"JavaScript"
+	   ],
+	   "tags": [
+			"Template Generation",
+			"Front End",
+			"Library Usage"
+	   ],
+	   "details": [
+			"Designed an interface for my Resume website",
+			"Implemented the front and back end of the design",
+			"Utilized open source libraries to effeciently solve problems",
+			"Utilized a template library to provide automatic generation of projects without any extra coding necessary"
+	   ],
+	   "urls": [
+		  	"https://google.com"
+	   ]
+	}
+]
