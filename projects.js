@@ -8,23 +8,25 @@ window.addEventListener("DOMContentLoaded", event => {
 		fetch("project-mustache.html")
 		.then(res => res.text())
 		.then(template => {
-			rendered = Mustache.render(template, projectsData[0]);
-			console.log(rendered)
-			$("#projects-container").append(rendered);
+			for (project of projectsData) {
+				rendered = Mustache.render(template, project);
+				$("#projects-container").append(rendered);
+			}
+			
 		})
 		.then(() => {
 			for (const project of $(".project")) {
 				const $project = $(project);
 				console.log($project);
-				$details = $project.find(".project-details");
-				$button = $project.find(".project-footer");
+				const $details = $project.find(".project-details");
+				const $button = $project.find(".project-footer");
 		
 				$button.click(event => {
 					if ($details.css("height") == "0px") {
-						$(".project-details").css("height", $(".project-details").prop("scrollHeight"));
+						$details.css("height", $details.prop("scrollHeight"));
 						$button.html(hideDetails);
 					} else {
-						$(".project-details").css("height", 0);
+						$details.css("height", 0);
 						$button.html(showDetails);
 					}
 				});
