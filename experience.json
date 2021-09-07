@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Undergraduate Researcher",
+		"date": "2021 (Ongoing)",
+		"languages": [
+			"Python",
+			"C++"
+		],
+		"tags": [
+			"Research",
+			"Bioinformatics",
+			"Optimization",
+			"Code Reimplementation"
+		],
+		"details": [
+			"Familiarized myself with a new codebase to learn its algorithm",
+			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
+			"(Ongoing) Working with Professors to complete the program and publish an associated paper"
+		],
+		"urls": [
+			"https://github.com/TheCrossBoy/Python-Variant-Calling",
+			"https://niema.net/"
+		]
+	},
+	{
+		"title": "Pluto.gg",
+		"date": "2019-2021",
+		"languages": [
+			"Lua",
+			"SQL",
+			"PHP",
+			"HTML",
+			"CSS",
+			"JavaScript"
+		],
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Web Design",
+			"Full Stack",
+			"Garry's Mod"
+		],
+		"details": [
+			"Worked both on the Game and Web sides of the community's development",
+			"Assisted in the ideation phase of various in game events, items, features, and functionality",
+			"Implemented compiled ideas into funcitonal game code",
+			"Worked on a live, evolving game",
+			"Implemented web features, including PayPal donation integration, Discord login, and more",
+			"Created and maintained a Discord bot for the community"
+		],
+		"urls": [
+			"https://github.com/meepen/tttrw",
+			"https://github.com/meepen/pluto-inv",
+			"https://github.com/pluto-oss/styx",
+			"https://github.com/pluto-oss/pluto-admin"
+		]
+	},
+	{
+		"title": "Exoterra Gaming",
+		"date": "2016-2018",
+		"languages": [
+			"Lua"
+		],
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Garry's Mod"
+		],
+		"details": [
+			""
+		],
+		"urls": [
+			""
+		]
+	},
+	{
+		"title": "FTC EngiNERDs",
+		"date": "2015-2019",
+		"languages": [
+			"Java"
+		],
+		"tags": [
+			""
+		],
+		"details": [
+			""
+		],
+		"urls": [
+			""
+		]
+	}
+]
