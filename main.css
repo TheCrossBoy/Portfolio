@@ -21,6 +21,10 @@ body {
 	height: 100%;
 }
 
+.italic {
+	font-style: italic;
+}
+
 /***********/
 /* Sidebar */
 /***********/
@@ -116,7 +120,9 @@ body {
 
 /* Projects */
 #projects-container {
-	width: 80%;
+	width: 70%;
+	min-width: 780px;
+	max-width: 1000px;
 	margin: 0 auto;
 }
 
@@ -144,7 +150,8 @@ body {
 	flex-wrap: wrap;
 	list-style-type: none;
 	padding-left: 0;
-	margin: 10px 0;
+	margin: 0;
+	padding: 10px 0 5px 0;
 }
 
 .tag {
@@ -153,6 +160,7 @@ body {
 	padding: 5px;
 	border-radius: 5px;
 	margin-right: 5px;
+	margin-bottom: 5px;
 }
 
 .tag.language {
