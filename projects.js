@@ -5,7 +5,7 @@ const showDetails = '<i class="fas fa-caret-down"></i><h3>Show Details</h3>'
 window.addEventListener("DOMContentLoaded", event => {
 	fetch("projects.json").then(res => res.json())
 	.then(projectsData => {
-		fetch("project-mustache.html")
+		fetch("mustache.html")
 		.then(res => res.text())
 		.then(template => {
 			for (project of projectsData) {
