@@ -23,6 +23,26 @@
 		]
 	},
 	{
+		"title": "Undergraduate Tutor",
+		"date": "2020-2021 (Ongoing)",
+		"languages": [
+			"C++",
+			"C"
+		],
+		"tags": [
+			"Teaching",
+			"Code Help",
+			"CSE 100 - Advanced Data Structures",
+			"CSE 142L - Software Project for Computer Architecture"
+		],
+		"details": [
+			""
+		],
+		"urls": [
+			""
+		]
+	},
+	{
 		"title": "Pluto.gg",
 		"date": "2019-2021",
 		"languages": [
@@ -74,10 +94,10 @@
 		]
 	},
 	{
-		"title": "FTC EngiNERDs",
-		"date": "2015-2019",
+		"title": "NHS President & Key Club Vice-President",
+		"date": "2018-2019",
 		"languages": [
-			"Java"
+			""
 		],
 		"tags": [
 			""
@@ -88,5 +108,43 @@
 		"urls": [
 			""
 		]
+	},
+	{
+		"title": "Sound Engineer",
+		"date": "2016-2019",
+		"languages": [
+			""
+		],
+		"tags": [
+			""
+		],
+		"details": [
+			""
+		],
+		"urls": [
+			""
+		]
+	},
+	{
+		"title": "FTC EngiNERDs",
+		"date": "2015-2019",
+		"languages": [
+			"Java"
+		],
+		"tags": [
+			"FTC Robotics",
+			"Hardware-Software Interfacing",
+			"School Club",
+			"Outreach"
+		],
+		"details": [
+			"Worked on a closenit school Robotics Team",
+			"Influenced design decisions of the overall design of our robot",
+			"Developed the software for our robot",
+			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design",
+			"Won multiple awards, including design awards and programming awards",
+			"Participated in outreach in which we helped younger students and new teams get introduced to our methods and technology"
+		],
+		"urls": []
 	}
 ]
