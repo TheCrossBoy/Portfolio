@@ -16,7 +16,7 @@
 			"Designed an interface for my Resume website",
 			"Implemented the front and back end of the design",
 			"Utilized open source libraries to effeciently solve problems",
-			"Utilized a template library to provide automatic generation of projects without any extra coding necessary"
+			"Utilized a template library to provide automatic generation of pages without any extra coding necessary"
 		],
 		"urls": [
 			"https://crossboy.xyz",
@@ -40,6 +40,8 @@
 		"details": [
 			"Familiarized myself with a new codebase to learn its algorithm",
 			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
+			"Reduced the data flow in the algorithms, to reduce code jumps",
+			"(Current) Parellelized the program to utilize multithreading",
 			"Worked with Professors to complete the program and publish an associated paper"
 		],
 		"urls": [
@@ -65,7 +67,8 @@
 		"details": [
 			"Worked with a team to create a project based on the end product goal of a Pomodoro Timer",
 			"Created the initial HTML framework and helped with the design decisions",
-			"Implemented features into the app with Javascript, including a modular settings menu and sound effects"
+			"Implemented features into the app with Javascript, including a modular settings menu and sound effects",
+			"Participated in weekly reflections, sprints, and planning meetings"
 		],
 		"urls": [
 			"https://zvidmarb.github.io/cse110-w21-group23/",
@@ -86,7 +89,7 @@
 			"Garry's Mod"
 		],
 		"details": [
-			"Helped with the rewrite of a popular Garry's Mod gamemode TTT",
+			"Helped with a rewrite of a popular Garry's Mod gamemode Trouble in Terrorist Town",
 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
 			"Implemented assigned ideas into funcitonal game code",
 			"Worked on a live, evolving game product",

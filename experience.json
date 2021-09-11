@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Undergraduate Researcher",
+		"title": "Niema Lab - Epidemeology Sequencing Research",
 		"date": "2021 (Ongoing)",
 		"languages": [
 			"Python",
@@ -13,9 +13,9 @@
 			"Code Reimplementation"
 		],
 		"details": [
-			"Familiarized myself with a new codebase to learn its algorithm",
-			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
-			"(Ongoing) Working with Professors to complete the program and publish an associated paper"
+			"Researcher on Project doing sequencing and analysis of COVID-19 Genomes to track evolutions",
+			"Reviewed a codebase and reimplemented the algorithms in Python to create a 50% reduction in runtime",
+			"On track to complete the project and will lead to an associated paper being published"
 		],
 		"urls": [
 			"https://github.com/TheCrossBoy/Python-Variant-Calling",
@@ -23,7 +23,7 @@
 		]
 	},
 	{
-		"title": "Undergraduate Tutor",
+		"title": "UC San Diego Computer Science Department",
 		"date": "2020-2021 (Ongoing)",
 		"languages": [
 			"C++",
@@ -36,11 +36,12 @@
 			"CSE 142L - Software Project for Computer Architecture"
 		],
 		"details": [
-			""
+			"Undergraduate Tutor for the department, holding office hours for over 400 students",
+			"Worked to help students through misconceptions, code problems, and general questions",
+			"Created resources, such as automatic run debugging, to aid in the development process",
+			"Assisted in the course's Discussion section to enhance the learning process"
 		],
-		"urls": [
-			""
-		]
+		"urls": []
 	},
 	{
 		"title": "Pluto.gg",
@@ -61,7 +62,7 @@
 			"Garry's Mod"
 		],
 		"details": [
-			"Worked both on the Game and Web sides of the community's development",
+			"Worked as a developer on both the Game and Web sides of the community's development",
 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
 			"Implemented compiled ideas into funcitonal game code",
 			"Worked on a live, evolving game",
@@ -87,43 +88,46 @@
 			"Garry's Mod"
 		],
 		"details": [
-			""
+			"Worked as a developer for the community and its servers",
+			"Iterated through various design changes with testers to ensure functional and quality content",
+			"Participated in the ideation phase to construct unique ideas for the servers to use"
 		],
 		"urls": [
 			""
 		]
 	},
 	{
-		"title": "NHS President & Key Club Vice-President",
+		"title": "National Honors Society & Key Club",
 		"date": "2018-2019",
-		"languages": [
-			""
-		],
+		"languages": [],
 		"tags": [
-			""
+			"Volunteer Work",
+			"Leadership",
+			"School Club"
 		],
 		"details": [
-			""
+			"NHS President and Key Club Vice President",
+			"Managed a team of students to ensure the clubs functioned properly",
+			"Organized and managed volunteer events our members could attend",
+			"Tracked our members' progress throughout the year to ensure everyone was on track"
 		],
-		"urls": [
-			""
-		]
+		"urls": []
 	},
 	{
 		"title": "Sound Engineer",
 		"date": "2016-2019",
-		"languages": [
-			""
-		],
+		"languages": [],
 		"tags": [
-			""
+			"Sound Tech",
+			"Live Mixing",
+			"Performance"
 		],
 		"details": [
-			""
+			"Worked on live performances and talks to ensure sound quality and audibility throughout the space",
+			"Prepped the stage and equipment ahead of time and cleaned afterwards to ensure it was well kept",
+			"Remained focused in the high pressure, live environment"
 		],
-		"urls": [
-			""
-		]
+		"urls": []
 	},
 	{
 		"title": "FTC EngiNERDs",
@@ -138,12 +142,12 @@
 			"Outreach"
 		],
 		"details": [
-			"Worked on a closenit school Robotics Team",
+			"During my senior year, I was President of the club",
+			"Worked as Lead Developer for school's Robotics Team",
 			"Influenced design decisions of the overall design of our robot",
-			"Developed the software for our robot",
 			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design",
 			"Won multiple awards, including design awards and programming awards",
-			"Participated in outreach in which we helped younger students and new teams get introduced to our methods and technology"
+			"Acted as mentor and recrutier to younger students and newer teams to gain interest in the team and mentor in all aspects of design, execution, and leadership"
 		],
 		"urls": []
 	}
