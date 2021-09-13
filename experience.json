@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Niema Lab - Epidemeology Sequencing Research",
-		"date": "2021 (Ongoing)",
+		"date": "2021-Current",
 		"languages": [
 			"Python",
 			"C++"
@@ -24,7 +24,7 @@
 	},
 	{
 		"title": "UC San Diego Computer Science Department",
-		"date": "2020-2021 (Ongoing)",
+		"date": "2020-Current",
 		"languages": [
 			"C++",
 			"C"
@@ -37,7 +37,7 @@
 		],
 		"details": [
 			"Undergraduate Tutor for the department, holding office hours for over 400 students",
-			"Worked to help students through misconceptions, code problems, and general questions",
+			"Worked to help students through theoretical misconceptions, code problems, and general questions",
 			"Created resources, such as automatic run debugging, to aid in the development process",
 			"Assisted in the course's Discussion section to enhance the learning process"
 		],
@@ -62,7 +62,7 @@
 			"Garry's Mod"
 		],
 		"details": [
-			"Worked as a developer on both the Game and Web sides of the community's development",
+			"Worked as a developer on both the Game and Web sides of the community",
 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
 			"Implemented compiled ideas into funcitonal game code",
 			"Worked on a live, evolving game",
@@ -90,14 +90,12 @@
 		"details": [
 			"Worked as a developer for the community and its servers",
 			"Iterated through various design changes with testers to ensure functional and quality content",
-			"Participated in the ideation phase to construct unique ideas for the servers to use"
+			"Participated in the ideation phase to construct unique ideas for the servers to utilize"
 		],
-		"urls": [
-			""
-		]
+		"urls": []
 	},
 	{
-		"title": "National Honors Society & Key Club",
+		"title": "National Honor Society & Key Club",
 		"date": "2018-2019",
 		"languages": [],
 		"tags": [
@@ -107,9 +105,9 @@
 		],
 		"details": [
 			"NHS President and Key Club Vice President",
-			"Managed a team of students to ensure the clubs functioned properly",
+			"Managed a team of students to identify, plan, and implement volunteer projects",
 			"Organized and managed volunteer events our members could attend",
-			"Tracked our members' progress throughout the year to ensure everyone was on track"
+			"Tracked our members' progress throughout the year to ensure everyone was on track to meet their membership requirements"
 		],
 		"urls": []
 	},
@@ -123,8 +121,8 @@
 			"Performance"
 		],
 		"details": [
-			"Worked on live performances and talks to ensure sound quality and audibility throughout the space",
-			"Prepped the stage and equipment ahead of time and cleaned afterwards to ensure it was well kept",
+			"Worked on live performances and educational talks to ensure sound quality and audibility throughout the space",
+			"Responsible for stage setup, performance, and teardown",
 			"Remained focused in the high pressure, live environment"
 		],
 		"urls": []
@@ -142,12 +140,12 @@
 			"Outreach"
 		],
 		"details": [
+			"Worked as Lead Developer for school's Robotics Team for four years",
 			"During my senior year, I was President of the club",
-			"Worked as Lead Developer for school's Robotics Team",
 			"Influenced design decisions of the overall design of our robot",
 			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design",
-			"Won multiple awards, including design awards and programming awards",
-			"Acted as mentor and recrutier to younger students and newer teams to gain interest in the team and mentor in all aspects of design, execution, and leadership"
+			"Won multiple awards, including design awards and programming awards at regional competitions",
+			"Acted as mentor and recrutier to younger students and newer teams to gain interest in robotics and mentor in all aspects of design, execution, and leadership"
 		],
 		"urls": []
 	}
