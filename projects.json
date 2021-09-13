@@ -40,8 +40,8 @@
 		"details": [
 			"Familiarized myself with a new codebase to learn its algorithm",
 			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
-			"Reduced the data flow in the algorithms, to reduce code jumps",
-			"(Current) Parellelized the program to utilize multithreading",
+			"Reduced the data flow in the algorithms to reduce code jumps",
+			"On track to complete the project and will lead to an associated paper being published",
 			"Worked with Professors to complete the program and publish an associated paper"
 		],
 		"urls": [
@@ -142,7 +142,7 @@
 		"details": [
 			"Learned about the Invision Community Forum API",
 			"Applied the knowledge to create functional front and backend systems for users and administrators",
-			"Created a donation interface using PayPal's trasaction API, a player information page, Discord integration, and more"
+			"Created a donation interface using PayPal's transaction API, a player information page, Discord integration, and more"
 		],
 		"urls": [
 			"https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1"
@@ -161,9 +161,9 @@
 			"User Control"
 		],
 		"details": [
-			"Programmed our High School Robotics Team's robot for our FTC Robotics Competition",
-			"Created an autonomous section, in which the robot read in data from sensors and cameras to move without user control",
-			"Created the user control code, in which a player's controller actions were mapped onto robot actions",
+			"Programmed our High School Robotics Team's robot for our FTC Robotics Competitions for four years",
+			"Created an autonomous section in which the robot read in data from sensors and cameras to move without user control",
+			"Created the user control code in which a player's controller actions were mapped onto robot actions",
 			"Won an award for the programming of the robot"
 		],
 		"urls": [
@@ -182,10 +182,10 @@
 			"Garry's Mod"
 		],
 		"details": [
-			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>",
 			"Created new features for an existing codebase on a Jailbreak server",
 			"Worked with another developer to update, modernize, and beautify old code to work for our needs",
-			"Updated a logs addon to work with Jailbreak"
+			"Updated a logs addon to work with Jailbreak",
+			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
 		],
 		"urls": [
 			"https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1"
@@ -203,10 +203,10 @@
 			"Garry's Mod"
 		],
 		"details": [
-			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>",
 			"Created, managed, and developed for the community's first Deathrun server",
 			"Provided exclusive features for the server based on the original gamemode",
-			"Added extra functionality, including an experience and leveling system, to the server"
+			"Added extra functionality, including an experience and leveling system, to the server",
+			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
 		],
 		"urls": [
 			"https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6"
