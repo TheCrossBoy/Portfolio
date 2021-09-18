@@ -32,6 +32,7 @@ body {
 	height: 100%;
 	width: 300px;
 	background-color: var(--layer-color);
+	flex-shrink: 0;
 }
 
 #sidebar img {
