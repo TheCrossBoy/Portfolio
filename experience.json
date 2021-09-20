@@ -18,8 +18,8 @@
 			"On track to complete the project and will lead to an associated paper being published"
 		],
 		"urls": [
-			"https://github.com/TheCrossBoy/Python-Variant-Calling",
-			"https://niema.net/"
+			["https://github.com/TheCrossBoy/Python-Variant-Calling", "Python Variant Calling Codebase"],
+			["https://niema.net/", "Professor Advisor's Website"]
 		]
 	},
 	{
@@ -70,10 +70,10 @@
 			"Created and maintained a Discord bot for the community"
 		],
 		"urls": [
-			"https://github.com/meepen/tttrw",
-			"https://github.com/meepen/pluto-inv",
-			"https://github.com/pluto-oss/styx",
-			"https://github.com/pluto-oss/pluto-admin"
+			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
+			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
+			["https://github.com/pluto-oss/styx", "Styx Discord Bot Codebase"],
+			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin System Codebase"]
 		]
 	},
 	{

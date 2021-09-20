@@ -19,9 +19,9 @@
 			"Utilized a template library to provide automatic generation of pages without any extra coding necessary"
 		],
 		"urls": [
-			"https://crossboy.xyz",
-			"https://github.com/TheCrossBoy/Portfolio",
-			"https://github.com/TheCrossBoy/Portfolio/blob/main/projects.json"
+			["https://crossboy.xyz", "This Site"],
+			["https://github.com/TheCrossBoy/Portfolio", "Website Codebase"],
+			["https://github.com/TheCrossBoy/Portfolio/blob/main/projects.json", "JSON Data Format"]
 		]
 	},
 	{
@@ -45,7 +45,7 @@
 			"Worked with Professors to complete the program and publish an associated paper"
 		],
 		"urls": [
-			"https://github.com/TheCrossBoy/Python-Variant-Calling"
+			["https://github.com/TheCrossBoy/Python-Variant-Calling", "Python Variant Calling Codebase"]
 		]
 	},
 	{
@@ -71,8 +71,8 @@
 			"Participated in weekly reflections, sprints, and planning meetings"
 		],
 		"urls": [
-			"https://zvidmarb.github.io/cse110-w21-group23/",
-			"https://github.com/zvidmarb/cse110-w21-group23"
+			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Project Site"],
+			["https://github.com/zvidmarb/cse110-w21-group23", "Project Codebase"]
 		]
 	},
 	{
@@ -96,10 +96,10 @@
 			"Implemented systems such as a chatbox with channels, playercards, a scoreboard, and more"
 		],
 		"urls": [
-			"https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17",
-			"https://github.com/meepen/tttrw",
-			"https://github.com/meepen/pluto-inv",
-			"https://github.com/pluto-oss/pluto-admin"
+			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Code Excerpts + Photos"],
+			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
+			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
+			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin Codebase"]
 		]
 	},
 	{
@@ -120,7 +120,7 @@
 			"Integrated with the forums and game in order to sync things across the three systems"
 		],
 		"urls": [
-			"https://github.com/pluto-oss/styx"
+			["https://github.com/pluto-oss/styx", "Styx Codebase"]
 		]
 	},
 	{
@@ -145,7 +145,7 @@
 			"Created a donation interface using PayPal's transaction API, a player information page, Discord integration, and more"
 		],
 		"urls": [
-			"https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1"
+			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Code Excerpts + Screenshots"]
 		]
 	},
 	{
@@ -167,7 +167,7 @@
 			"Won an award for the programming of the robot"
 		],
 		"urls": [
-			"https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e"
+			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Screenshots"]
 		]
 	},
 	{
@@ -188,7 +188,7 @@
 			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
 		],
 		"urls": [
-			"https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1"
+			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Excerpts + Screenshots"]
 		]
 	},
 	{
@@ -209,7 +209,7 @@
 			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
 		],
 		"urls": [
-			"https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6"
+			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Excerpts + Screenshots"]
 		]
 	}
 ]
