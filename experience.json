@@ -44,6 +44,29 @@
 		"urls": []
 	},
 	{
+		"title": "CSE Summer Program for Incoming Students",
+		"date": "2021",
+		"languages": [
+			"Python"
+		],
+		"tags": [
+			"Mentoring",
+			"Project Advisory",
+			"Code Help"
+		],
+		"details": [
+			"Worked as a mentor for the SPIS Program",
+			"Gave advice, help, and support to students as they adjusted to college life and work for the first time",
+			"Assisted with the students' project, giving advice about how best to solve the problems they faced",
+			"Worked with students to help them solve the problems they faced as they coded",
+			"Interacted with the students in fun activities to keep them engaged in the program and excited to start"
+		],
+		"urls": [
+			["http://spis.ucsd.edu/", "SPIS Homepage"],
+			["http://spis.ucsd.edu/highlights.html", "Previous Projects (not currently up to date with this years')"]
+		]
+	},
+	{
 		"title": "Pluto.gg",
 		"date": "2019-2021",
 		"languages": [
