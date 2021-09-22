@@ -50,7 +50,7 @@
 							<ul class="project-tags">
 								<li class="tag">BS Computer Science</li>
 							</ul>
-							<div class="project-details">
+							<div class="project-details" style="height: unset;">
 								Selected coursework:
 								<ul class="project-bullets">
 									<li>CSE 100: Advanced Data Structures - Covered advanced data structures, their algorithms, benefits, and weakneses</li>
@@ -59,32 +59,10 @@
 									<li>CSE 142/L: Introduction to Computer Architecture: A Software Perspective - Introduces concepts relating to how software choices impact how efficiently hardware is utilized. Also includes a lab in which specific programs are optimized for their hardware</li>
 								</ul>
 							</div>
-							<div class="project-footer">
-								<i class="fas fa-caret-down"></i>
-								<h3>Show Details</h3>
-							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<script>
-			const hideDetails = '<i class="fas fa-caret-up"></i><h3>Hide Details</h3>';
-			const showDetails = '<i class="fas fa-caret-down"></i><h3>Show Details</h3>'
-			const $project = $(".project");
-			console.log($project);
-			const $details = $project.find(".project-details");
-			const $button = $project.find(".project-footer");
-	
-			$button.click(event => {
-				if ($details.css("height") == "0px") {
-					$details.css("height", $details.prop("scrollHeight"));
-					$button.html(hideDetails);
-				} else {
-					$details.css("height", 0);
-					$button.html(showDetails);
-				}
-			});
-		</script>
 	</body>
 </html>
