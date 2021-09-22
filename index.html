@@ -8,6 +8,7 @@
 		<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
 		<script src="https://kit.fontawesome.com/eae88bfca3.js" crossorigin="anonymous"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 		<link rel="stylesheet" href="main.css">
 	</head>
@@ -29,7 +30,61 @@
 			</ul>
 		</div>
 		<div id="body">
-
+			<h1>Welcome!</h1>
+			<div id="home-container">
+				<div id="home-body">
+					<div id="home-left">
+						<p>Hello, and thank you so much for coming to my site! I'm thrilled to be able to share with you some of the projects I've worked on and oganizations I've worked with.</p>
+						<p>In regards to games, I've long been extremely passionate about them. I've worked on multiple game related projects, especially in relation to Garry's Mod, a game that allows for extreme customization and places an emphasis on community created content (see more details on my Projects page!).</p>
+						<p>Additionally, I've worked in a multitude of educational spaces. There are two courses I've tutored for at UCSD, CSE 100 (Advanced Data Structures, which covers the basics and algorithms of many complex structures) and CSE 142L (Software Project for Computer Architecture, which involves creating optimized code and analyzing the hardware implications of various software choices).</p>
+						<p>I'm also currently working on a research project with two professors advising, Niema Moshiri and Tajana Rosing. This project is looking into the COVID-19 Genome Sequencing Pipeline in place at UCSD. Specifically, we identified that a program that takes genomic reads and trims them was inefficient, and I've been working on reimplementing and optmizing these algorithms to smooth this pipeline. We are currently hoping to have our program sent to a journal at some point in the future!</p>
+						<p>Overall, I'm extremely passionate about Video Games, programming, software development, and more. I do hope that you'll have a look around, and please feel free to reach out to me with anything at any of the social links at the bottom of the left side bar.</p>
+						<p>Thank you!</p>
+					</div>
+					<div id="home-right">
+						<div class="project">
+							<div class="project-header">
+								<h2>UC San Diego</h2>
+								<p>September 2019 - December 2022 (expected)</p>
+							</div>
+							<ul class="project-tags">
+								<li class="tag">BS Computer Science</li>
+							</ul>
+							<div class="project-details">
+								Selected coursework:
+								<ul class="project-bullets">
+									<li>CSE 100: Advanced Data Structures - Covered advanced data structures, their algorithms, benefits, and weakneses</li>
+									<li>CSE 110: Software Engineering - Introduced to common best practices, organizational models, and team strategies used in industry</li>
+									<li>(Planned for SP22) CSE 125: Software Systemm Design and Implementation - Project course focusing on implementation details of a video game</li>
+									<li>CSE 142/L: Introduction to Computer Architecture: A Software Perspective - Introduces concepts relating to how software choices impact how efficiently hardware is utilized. Also includes a lab in which specific programs are optimized for their hardware</li>
+								</ul>
+							</div>
+							<div class="project-footer">
+								<i class="fas fa-caret-down"></i>
+								<h3>Show Details</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
+		<script>
+			const hideDetails = '<i class="fas fa-caret-up"></i><h3>Hide Details</h3>';
+			const showDetails = '<i class="fas fa-caret-down"></i><h3>Show Details</h3>'
+			const $project = $(".project");
+			console.log($project);
+			const $details = $project.find(".project-details");
+			const $button = $project.find(".project-footer");
+	
+			$button.click(event => {
+				if ($details.css("height") == "0px") {
+					$details.css("height", $details.prop("scrollHeight"));
+					$button.html(hideDetails);
+				} else {
+					$details.css("height", 0);
+					$button.html(showDetails);
+				}
+			});
+		</script>
 	</body>
 </html>
