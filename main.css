@@ -111,6 +111,10 @@ body {
 	margin-right: 40px;
 }
 
+#home-right > h1 {
+	text-align: center;
+}
+
 /***********/
 /* Socials */
 /***********/
