@@ -95,6 +95,13 @@ body {
 /********/
 /* Home */
 /********/
+#home-container {
+	width: 80%;
+	min-width: 780px;
+	max-width: 1500px;
+	margin: 0 auto;
+}
+
 #home-body > div {
 	float: left;
 	width: calc((100% - 3 * 40px) / 2 - 1px);
