@@ -111,6 +111,16 @@ body {
 	margin-right: 40px;
 }
 
+#home-body:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+#home-lower {
+	padding: 0 40px;
+}
+
 /***********/
 /* Socials */
 /***********/

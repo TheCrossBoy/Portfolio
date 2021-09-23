@@ -44,7 +44,7 @@
 		"urls": []
 	},
 	{
-		"title": "CSE Summer Program for Incoming Students",
+		"title": "Computer Science & Engineering Summer Program for Incoming Students",
 		"date": "2021",
 		"languages": [
 			"Python"
@@ -87,7 +87,7 @@
 		"details": [
 			"Worked as a developer on both the Game and Web sides of the community",
 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
-			"Implemented compiled ideas into funcitonal game code",
+			"Implemented compiled ideas into functional game code",
 			"Worked on a live, evolving game",
 			"Implemented web features, including PayPal donation integration, Discord login, and more",
 			"Created and maintained a Discord bot for the community"
@@ -168,7 +168,7 @@
 			"Influenced design decisions of the overall design of our robot",
 			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design",
 			"Won multiple awards, including design awards and programming awards at regional competitions",
-			"Acted as mentor and recrutier to younger students and newer teams to gain interest in robotics and mentor in all aspects of design, execution, and leadership"
+			"Acted as mentor and recruiter to younger students and newer teams to gain interest in robotics and mentor in all aspects of design, execution, and leadership"
 		],
 		"urls": []
 	}
