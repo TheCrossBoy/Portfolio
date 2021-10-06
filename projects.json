@@ -25,7 +25,7 @@
 		]
 	},
 	{
-		"title": "iVar in Python",
+		"title": "AmpliPy: Python Variant Calling",
 		"date": "2021-Ongoing",
 		"languages": [
 			"Python",
@@ -45,7 +45,7 @@
 			"Worked with Professors to complete the program and publish an associated paper"
 		],
 		"urls": [
-			["https://github.com/TheCrossBoy/Python-Variant-Calling", "Python Variant Calling Codebase"]
+			["https://github.com/TheCrossBoy/AmpliPy", "AmpliPy Codebase"]
 		]
 	},
 	{
