@@ -1,5 +1,27 @@
 [
 	{
+		"title": "UC San Diego ESports - League of Legends",
+		"date": "2021-Current",
+		"languages": [
+			"Python",
+			"C++"
+		],
+		"tags": [
+			"Casting",
+			"Live Analysis",
+			"Broadcast Team"
+		],
+		"details": [
+			"Caster on the broadcast for our Varsity League of Legends team",
+			"Provided Play by Play shotcalling, live analysis of game state, and retroactive insight into plays",
+			"Participated in the live, evolving ever changing environment on air",
+			"Stayed calm under pressure and kept up with the high stakes, speedy gameplay"
+		],
+		"urls": [
+			["https://www.twitch.tv/ucsdesports", "UCSD ESports Broadcast Twitch Channel"]
+		]
+	},
+	{
 		"title": "Niema Lab - Epidemeology Sequencing Research",
 		"date": "2021-Current",
 		"languages": [
@@ -18,7 +40,7 @@
 			"On track to complete the project and will lead to an associated paper being published"
 		],
 		"urls": [
-			["https://github.com/TheCrossBoy/Python-Variant-Calling", "Python Variant Calling Codebase"],
+			["https://github.com/TheCrossBoy/Python-Variant-Calling", "AmpliPy Codebase"],
 			["https://niema.net/", "Professor Advisor's Website"]
 		]
 	},
