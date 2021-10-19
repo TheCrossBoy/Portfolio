@@ -1,5 +1,37 @@
 [
 	{
+		"title": "Triton Gaming",
+		"date": "2021-Current",
+		"languages": [],
+		"tags": [
+			"University Club",
+			"Event Planning",
+			"Community Building & Engagement"
+		],
+		"details": [
+			"Recruit Officer for the Triton Gaming video game event club at UCSD"
+		],
+		"urls": [
+			["https://discord.gg/tritongaming", "Triton Gaming Discord Server"]
+		]
+	},
+	{
+		"title": "League of Tritons",
+		"date": "2021-Current",
+		"languages": [],
+		"tags": [
+			"University Club",
+			"Event Planning",
+			"Community Building & Engagement"
+		],
+		"details": [
+			"Recruit Officer for the League of Tritons LoL Club at UCSD"
+		],
+		"urls": [
+			["https://discord.gg/RV8F95h", "League of Tritons Discord Server"]
+		]
+	},
+	{
 		"title": "UC San Diego ESports - League of Legends",
 		"date": "2021-Current",
 		"languages": [],
