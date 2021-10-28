@@ -32,7 +32,7 @@
 		]
 	},
 	{
-		"title": "UC San Diego ESports - League of Legends",
+		"title": "UC San Diego Esports - League of Legends",
 		"date": "2021-Current",
 		"languages": [],
 		"tags": [
@@ -134,7 +134,9 @@
 			"Game Engineering",
 			"Web Design",
 			"Full Stack",
-			"Garry's Mod"
+			"Garry's Mod",
+			"Cloud Computing",
+			"Linux"
 		],
 		"details": [
 			"Worked as a developer on both the Game and Web sides of the community",
