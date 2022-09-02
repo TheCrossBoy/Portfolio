@@ -7,16 +7,20 @@
 ```json
 {
 	"title": "",
-	"date": "",
+	"start": "",
+	"end": "",
 	"languages": [
 		""
 	],
+	"experience": true,
+	"project": true,
 	"tags": [
 		""
 	],
-	"details": [
+	"highlights": [
 		""
 	],
+	"details": "",
 	"urls": [
 		["", ""]
 	]
