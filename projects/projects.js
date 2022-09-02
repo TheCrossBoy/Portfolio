@@ -3,21 +3,22 @@ const showDetails = '<i class="fas fa-caret-down"></i><h3>Show Details</h3>'
 
 
 window.addEventListener("DOMContentLoaded", event => {
-	fetch("experience.json").then(res => res.json())
+	fetch("/data.json").then(res => res.json())
 	.then(projectsData => {
-		fetch("mustache.html")
+		fetch("/assets/mustache.html")
 		.then(res => res.text())
 		.then(template => {
 			for (project of projectsData) {
-				rendered = Mustache.render(template, project);
-				$("#projects-container").append(rendered);
+				if (project["project"]) {
+					rendered = Mustache.render(template, project);
+					$("#projects-container").append(rendered);
+				}
 			}
 			
 		})
 		.then(() => {
 			for (const project of $(".project")) {
 				const $project = $(project);
-				console.log($project);
 				const $details = $project.find(".project-details");
 				const $button = $project.find(".project-footer");
 		

@@ -1,0 +1,243 @@
+// [
+// 	{
+// 		"title": "Chairiots: A 3D Networked Game in Rust",
+// 		"start": "Spring 2022",
+// 		"languages": [
+// 			"Rust"
+// 		],
+// 		"tags": [
+// 			"Game Development",
+// 			"Game Design",
+// 			"Class Project"
+// 		],
+// 		"details": [
+// 			""
+// 		],
+// 		"urls": [
+// 			["https://www.youtube.com/watch?v=iDiPYyJkVA8", "Our Team's Presentation"],
+// 			["https://chairiots.notion.site/Chairioteers-Web-Page-bf2521783c0a46f7b06b0f072779be0f", "Team Webpage"],
+// 			["https://github.com/ucsd-cse125-sp22/cse125-sp22-group1", "Codebase"],
+// 			["https://chairiots.notion.site/Final-Report-875046aed50043d1a92e1ed669c81c71", "Final Report"]
+// 		]
+// 	},
+// 	{
+// 		"title": "AmpliPy: Python Variant Calling",
+// 		"start": "2021",
+// 		"end": "2022",
+// 		"languages": [
+// 			"Python",
+// 			"C++"
+// 		],
+// 		"tags": [
+// 			"Research",
+// 			"Bioinformatics",
+// 			"Optimization",
+// 			"Code Reimplementation"
+// 		],
+// 		"details": [
+// 			"Familiarized myself with a new codebase to learn its algorithm",
+// 			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
+// 			"Reduced the data flow in the algorithms to reduce code jumps",
+// 			"On track to complete the project and will lead to an associated paper being published",
+// 			"Worked with Professors to complete the program and publish an associated paper"
+// 		],
+// 		"urls": [
+// 			["https://github.com/Niema-Lab/AmpliPy", "AmpliPy Codebase"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Portfolio Website",
+// 		"start": "2021",
+// 		"end": "Ongoing",
+// 		"languages": [
+// 			"HTML",
+// 			"CSS",
+// 			"JavaScript"
+// 		],
+// 		"tags": [
+// 			"Template Generation",
+// 			"Front End",
+// 			"Library Usage"
+// 		],
+// 		"details": [
+// 			"Designed an interface for my Resume website",
+// 			"Implemented the front and back end of the design",
+// 			"Utilized open source libraries to effeciently solve problems",
+// 			"Utilized a template library to provide automatic generation of pages without any extra coding necessary"
+// 		],
+// 		"urls": [
+// 			["https://crossboy.xyz", "This Site"],
+// 			["https://github.com/TheCrossBoy/Portfolio", "Website Codebase"],
+// 			["https://github.com/TheCrossBoy/Portfolio/blob/main/projects.json", "JSON Data Format"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Pomodoro Webapp",
+// 		"start": "2021",
+// 		"languages": [
+// 			"HTML",
+// 			"JavaScript",
+// 			"CSS"
+// 		],
+// 		"tags": [
+// 			"Web Project",
+// 			"Class Project",
+// 			"Collaborative",
+// 			"CI/CD Pipeline",
+// 			"Sprints",
+// 			"Unit Testing"
+// 		],
+// 		"details": [
+// 			"Worked with a team to create a project based on the end product goal of a Pomodoro Timer",
+// 			"Created the initial HTML framework and helped with the design decisions",
+// 			"Implemented features into the app with Javascript, including a modular settings menu and sound effects",
+// 			"Participated in weekly reflections, sprints, and planning meetings"
+// 		],
+// 		"urls": [
+// 			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Project Site"],
+// 			["https://github.com/zvidmarb/cse110-w21-group23", "Project Codebase"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Pluto.gg TTT",
+// 		"start": "2019",
+// 		"end": "2021",
+// 		"languages": [
+// 			"Lua",
+// 			"SQL"
+// 		],
+// 		"tags": [
+// 			"Game Design",
+// 			"Game Engineering",
+// 			"Full Stack",
+// 			"Garry's Mod"
+// 		],
+// 		"details": [
+// 			"Helped with a rewrite of a popular Garry's Mod gamemode Trouble in Terrorist Town",
+// 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
+// 			"Implemented assigned ideas into functional game code",
+// 			"Worked on a live, evolving game product",
+// 			"Implemented systems such as a chatbox with channels, playercards, a scoreboard, and more"
+// 		],
+// 		"urls": [
+// 			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Code Excerpts + Photos"],
+// 			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
+// 			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
+// 			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin Codebase"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Pluto.gg Styx",
+// 		"start": "2019",
+// 		"end": "2021",
+// 		"languages": [
+// 			"JavaScript",
+// 			"SQL"
+// 		],
+// 		"tags": [
+// 			"Discord Bot",
+// 			"Networking",
+// 			"Library Usage"
+// 		],
+// 		"details": [
+// 			"Programmed features on a Discord bot using Discord.js",
+// 			"Maintained the bot and fixed bugs that appeared",
+// 			"Integrated with the forums and game in order to sync things across the three systems"
+// 		],
+// 		"urls": [
+// 			["https://github.com/pluto-oss/styx", "Styx Codebase"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Pluto.gg Forums",
+// 		"start": "2019",
+// 		"end": "2021",
+// 		"languages": [
+// 			"PHP",
+// 			"HTML",
+// 			"CSS",
+// 			"SQL",
+// 			"JavaScript"s
+// 		],
+// 		"tags": [
+// 			"Web Design",
+// 			"Full Stack",
+// 			"PayPal API",
+// 			"Discord Login API"
+// 		],
+// 		"details": [
+// 			"Learned about the Invision Community Forum API",
+// 			"Applied the knowledge to create functional front and backend systems for users and administrators",
+// 			"Created a donation interface using PayPal's transaction API, a player information page, Discord integration, and more"
+// 		],
+// 		"urls": [
+// 			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Code Excerpts + Screenshots"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Robotics Club Programming",
+// 		"start": "2015",
+// 		"end": "2019",
+// 		"languages": [
+// 			"Java"
+// 		],
+// 		"tags": [
+// 			"Hardware Interfacing",
+// 			"FTC Robotics Competition",
+// 			"Autonomous Control",
+// 			"User Control"
+// 		],
+// 		"details": [
+// 			"Programmed our High School Robotics Team's robot for our FTC Robotics Competitions for four years",
+// 			"Created an autonomous section in which the robot read in data from sensors and cameras to move without user control",
+// 			"Created the user control code in which a player's controller actions were mapped onto robot actions",
+// 			"Won an award for the programming of the robot"
+// 		],
+// 		"urls": [
+// 			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Video"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Exoterra Jailbreak",
+// 		"start": "2016",
+// 		"end": "2018",
+// 		"languages": [
+// 			"Lua"
+// 		],
+// 		"tags": [
+// 			"Game Design",
+// 			"Game Engineering",
+// 			"Garry's Mod"
+// 		],
+// 		"details": [
+// 			"Created new features for an existing codebase on a Jailbreak server",
+// 			"Worked with another developer to update, modernize, and beautify old code to work for our needs",
+// 			"Updated a logs addon to work with Jailbreak",
+// 			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
+// 		],
+// 		"urls": [
+// 			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Excerpts"]
+// 		]
+// 	},
+// 	{
+// 		"title": "Exoterra Deathrun",
+// 		"start": "2016",
+// 		"languages": [
+// 			"Lua"
+// 		],
+// 		"tags": [
+// 			"Game Design",
+// 			"Game Engineering",
+// 			"Garry's Mod"
+// 		],
+// 		"details": [
+// 			"Created, managed, and developed for the community's first Deathrun server",
+// 			"Provided exclusive features for the server based on the original gamemode",
+// 			"Added extra functionality, including an experience and leveling system, to the server",
+// 			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
+// 		],
+// 		"urls": [
+// 			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Excerpts"]
+// 		]
+// 	}
+// ]

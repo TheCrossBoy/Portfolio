@@ -29,6 +29,17 @@ body {
 	font-style: italic;
 }
 
+.divider {
+	border: 0px;
+	width: calc(70% - 10%);
+	min-width: calc(780px - 10%);
+	max-width: calc(1000px - 10%);
+	margin: 20px auto;
+	border-top: 4px solid var(--dark-color);
+	border-radius: 2px;
+
+}
+
 /***********/
 /* Sidebar */
 /***********/
@@ -111,6 +122,7 @@ body {
 	border-right: 1px solid var(--light-color);
 	margin-left: 40px;
 	padding-right: 20px;
+	height: 100%;
 }
 
 #home-right {
@@ -161,6 +173,10 @@ body {
 #body > h1 {
 	text-align: center;
 	font-size: .8in
+}
+
+#body > p {
+	text-align: center;
 }
 
 /************/
@@ -253,4 +269,53 @@ body {
 	display: inline-block;
 	margin: 0;
 	margin-left: 10px;
+}
+
+/***************/
+/* Filter Page */
+/***************/
+
+#filters {
+	width: 70%;
+	min-width: 780px;
+	max-width: 1000px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#checkboxes {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 5px;
+}
+
+#checkboxes > input {
+	margin-left: 15px;
+}
+
+.tag-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 5px 0;
+}
+
+.tag-container > .tag {
+	filter: grayscale(70%);
+}
+
+.tag-container > .tag:hover {
+	filter: grayscale(20%);
+}
+
+.tag-container > .tag.selected {
+	filter: grayscale(0%);
+}
+
+.clickable {
+	cursor: pointer;
 }

@@ -1,0 +1,478 @@
+[
+	{
+		"title": "Portfolio Website",
+		"start": "2021",
+		"end": "Ongoing",
+		"languages": [
+			"HTML",
+			"CSS",
+			"JavaScript"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Web Design",
+			"Library Usage"
+		],
+		"details": [
+			"Designed an interface for my Resume website",
+			"Implemented the front and back end of the design",
+			"Utilized open source libraries to effeciently solve problems",
+			"Utilized a template library to provide automatic generation of pages without any extra coding necessary"
+		],
+		"urls": [
+			["https://crossboy.xyz", "This Site"],
+			["https://github.com/TheCrossBoy/Portfolio", "Website Codebase"],
+			["https://github.com/TheCrossBoy/Portfolio/blob/main/projects.json", "JSON Data Format"]
+		]
+	},
+	{
+		"title": "Triton Gaming",
+		"start": "2021",
+		"end": "Ongoing",
+		"languages": [],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"School Club",
+			"Event Planning",
+			"Leadership",
+			"Collaboration"
+		],
+		"details": [
+			"Recruit Officer for the Triton Gaming video game event club at UCSD"
+		],
+		"urls": [
+			["https://discord.gg/tritongaming", "Triton Gaming Discord Server"]
+		]
+	},
+	{
+		"title": "UC San Diego Computer Science Department",
+		"start": "2020",
+		"end": "Ongoing",
+		"languages": [
+			"C++",
+			"C"
+		],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Teaching",
+			"Code Review"
+		],
+		"details": [
+			"Undergraduate Tutor for the department, holding office hours for over 400 students",
+			"Worked to help students through theoretical misconceptions, code problems, and general questions",
+			"Created resources, such as automatic run debugging, to aid in the development process",
+			"Assisted in the course's Discussion section to enhance the learning process",
+			"Tutored for three classes: CSE 12 - Basic Data Structures and Object-Oriented Design, CSE 100 - Advanced Data Structures, and CSE 142L - Software Project for Computer Architecture"
+		],
+		"urls": []
+	},
+	{
+		"title": "Chairiots: A 3D Networked Game in Rust",
+		"start": "Spring 2022",
+		"languages": [
+			"Rust"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Software Engineering",
+			"Game Design",
+			"Class Project",
+			"Code Review",
+			"Collaboration"
+		],
+		"details": [
+			""
+		],
+		"urls": [
+			["https://www.youtube.com/watch?v=iDiPYyJkVA8", "Our Team's Presentation"],
+			["https://chairiots.notion.site/Chairioteers-Web-Page-bf2521783c0a46f7b06b0f072779be0f", "Team Webpage"],
+			["https://github.com/ucsd-cse125-sp22/cse125-sp22-group1", "Codebase"],
+			["https://chairiots.notion.site/Final-Report-875046aed50043d1a92e1ed669c81c71", "Final Report"]
+		]
+	},
+	
+	{
+		"title": "FIX!!!! AmpliPy: Python Variant Calling",
+		"start": "2021",
+		"end": "2022",
+		"languages": [
+			"Python",
+			"C++"
+		],
+		"experience": true,
+		"project": true,
+		"tags": [
+			"Research",
+			"Bioinformatics",
+			"Code Review",
+			"Optimization",
+			"Collaboration"
+		],
+		"details": [
+			"Familiarized myself with a new codebase to learn its algorithm",
+			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
+			"Reduced the data flow in the algorithms to reduce code jumps",
+			"On track to complete the project and will lead to an associated paper being published",
+			"Worked with Professors to complete the program and publish an associated paper",
+			"Researcher on Project doing sequencing and analysis of COVID-19 Genomes to track evolutions",
+			"Reviewed a codebase and reimplemented the algorithms in Python to create a 50% reduction in runtime",
+			"On track to complete the project and will lead to an associated paper being published"
+		],
+		"urls": [
+			["https://github.com/Niema-Lab/AmpliPy", "AmpliPy Codebase"]
+		]
+	},
+	{
+		"title": "League of Tritons",
+		"start": "2021",
+		"end": "2022",
+		"languages": [],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"School Club",
+			"Event Planning",
+			"Collaboration"
+		],
+		"details": [
+			"Recruit Officer for the League of Tritons LoL Club at UCSD"
+		],
+		"urls": [
+			["https://discord.gg/RV8F95h", "League of Tritons Discord Server"]
+		]
+	},
+	{
+		"title": "UC San Diego Esports - League of Legends",
+		"start": "2021",
+		"end": "2022",
+		"languages": [],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Live Performance",
+			"Game Analysis",
+			"School Club",
+			"Collaboration"
+		],
+		"details": [
+			"Caster on the broadcast for our Varsity League of Legends team",
+			"Provided Play by Play shotcalling, live analysis of game state, and retroactive insight into plays",
+			"Participated in the live, evolving ever changing environment on air",
+			"Stayed calm under pressure and kept up with the high stakes, speedy gameplay"
+		],
+		"urls": [
+			["https://www.twitch.tv/ucsdesports", "UCSD ESports Broadcast Twitch Channel"],
+			["https://www.twitch.tv/stephanpnguyen", "Backup Twitch Channel (sometimes streamed here)"]
+		]
+	},
+	{
+		"title": "Computer Science & Engineering Summer Program for Incoming Students",
+		"start": "2021",
+		"languages": [
+			"Python"
+		],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Leadership",
+			"Code Review"
+		],
+		"details": [
+			"Worked as a mentor for the SPIS Program",
+			"Gave advice, help, and support to students as they adjusted to college life and work for the first time",
+			"Assisted with the students' project, giving advice about how best to solve the problems they faced",
+			"Worked with students to help them solve the problems they faced as they coded",
+			"Interacted with the students in fun activities to keep them engaged in the program and excited to start"
+		],
+		"urls": [
+			["http://spis.ucsd.edu/", "SPIS Homepage"],
+			["http://spis.ucsd.edu/highlights.html", "Previous Projects (not currently up to date with this years')"]
+		]
+	},
+	{
+		"title": "Pomodoro Webapp",
+		"start": "2021",
+		"languages": [
+			"HTML",
+			"JavaScript",
+			"CSS"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Web Design",
+			"Class Project",
+			"Collaboration",
+			"CI/CD Pipeline",
+			"Unit Testing"
+		],
+		"details": [
+			"Worked with a team to create a project based on the end product goal of a Pomodoro Timer",
+			"Created the initial HTML framework and helped with the design decisions",
+			"Implemented features into the app with Javascript, including a modular settings menu and sound effects",
+			"Participated in weekly reflections, sprints, and planning meetings"
+		],
+		"urls": [
+			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Project Site"],
+			["https://github.com/zvidmarb/cse110-w21-group23", "Project Codebase"]
+		]
+	},
+	{
+		"title": "Pluto.gg",
+		"start": "2019",
+		"end": "2021",
+		"languages": [
+			"Lua",
+			"SQL",
+			"PHP",
+			"HTML",
+			"CSS",
+			"JavaScript"
+		],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Web Design",
+			"Garry's Mod",
+			"Collaboration"
+		],
+		"details": [
+			"Worked as a developer on both the Game and Web sides of the community",
+			"Assisted in the ideation phase of various in game events, items, features, and functionality",
+			"Implemented compiled ideas into functional game code",
+			"Worked on a live, evolving game",
+			"Implemented web features, including PayPal donation integration, Discord login, and more",
+			"Created and maintained a Discord bot for the community"
+		],
+		"urls": [
+			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
+			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
+			["https://github.com/pluto-oss/styx", "Styx Discord Bot Codebase"],
+			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin System Codebase"]
+		]
+	},
+	{
+		"title": "Pluto.gg TTT",
+		"start": "2019",
+		"end": "2021",
+		"languages": [
+			"Lua",
+			"SQL"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Full Stack",
+			"Garry's Mod"
+		],
+		"details": [
+			"Helped with a rewrite of a popular Garry's Mod gamemode Trouble in Terrorist Town",
+			"Assisted in the ideation phase of various in game events, items, features, and functionality",
+			"Implemented assigned ideas into functional game code",
+			"Worked on a live, evolving game product",
+			"Implemented systems such as a chatbox with channels, playercards, a scoreboard, and more"
+		],
+		"urls": [
+			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Code Excerpts + Photos"],
+			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
+			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
+			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin Codebase"]
+		]
+	},
+	{
+		"title": "Pluto.gg Styx",
+		"start": "2019",
+		"end": "2021",
+		"languages": [
+			"JavaScript",
+			"SQL"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Software Engineering",
+			"Library Usage"
+		],
+		"details": [
+			"Programmed features on a Discord bot using Discord.js",
+			"Maintained the bot and fixed bugs that appeared",
+			"Integrated with the forums and game in order to sync things across the three systems"
+		],
+		"urls": [
+			["https://github.com/pluto-oss/styx", "Styx Codebase"]
+		]
+	},
+	{
+		"title": "Pluto.gg Forums",
+		"start": "2019",
+		"end": "2021",
+		"languages": [
+			"PHP",
+			"HTML",
+			"CSS",
+			"SQL",
+			"JavaScript"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Web Design",
+			"Full Stack",
+			"Library Usage"
+		],
+		"details": [
+			"Learned about the Invision Community Forum API",
+			"Applied the knowledge to create functional front and backend systems for users and administrators",
+			"Created a donation interface using PayPal's transaction API, a player information page, Discord integration, and more"
+		],
+		"urls": [
+			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Code Excerpts + Screenshots"]
+		]
+	},
+	{
+		"title": "FIX!!!!! Robotics Club Programming",
+		"start": "2015",
+		"end": "2019",
+		"languages": [
+			"Java"
+		],
+		"experience": true,
+		"project": true,
+		"tags": [
+			"School Club",
+			"Outreach",
+			"Leadership",
+			"Software Engineering",
+			"Library Usage"
+		],
+		"details": [
+			"Programmed our High School Robotics Team's robot for our FTC Robotics Competitions for four years",
+			"Created an autonomous section in which the robot read in data from sensors and cameras to move without user control",
+			"Created the user control code in which a player's controller actions were mapped onto robot actions",
+			"Won an award for the programming of the robot",
+			"Worked as Lead Developer for school's Robotics Team for four years",
+			"During my senior year, I was President of the club",
+			"Influenced design decisions of the overall design of our robot",
+			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design",
+			"Won multiple awards, including design awards and programming awards at regional competitions",
+			"Acted as mentor and recruiter to younger students and newer teams to gain interest in robotics and mentor in all aspects of design, execution, and leadership"
+		],
+		"urls": [
+			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Video"]
+		]
+	},
+	{
+		"title": "Exoterra Gaming",
+		"start": "2016",
+		"end": "2018",
+		"languages": [
+			"Lua"
+		],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Garry's Mod"
+		],
+		"details": [
+			"Worked as a developer for the community and its servers",
+			"Iterated through various design changes with testers to ensure functional and quality content",
+			"Participated in the ideation phase to construct unique ideas for the servers to utilize"
+		],
+		"urls": []
+	},
+	{
+		"title": "Exoterra Jailbreak",
+		"start": "2016",
+		"end": "2018",
+		"languages": [
+			"Lua"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Garry's Mod"
+		],
+		"details": [
+			"Created new features for an existing codebase on a Jailbreak server",
+			"Worked with another developer to update, modernize, and beautify old code to work for our needs",
+			"Updated a logs addon to work with Jailbreak",
+			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
+		],
+		"urls": [
+			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Excerpts"]
+		]
+	},
+	{
+		"title": "Exoterra Deathrun",
+		"start": "2016",
+		"languages": [
+			"Lua"
+		],
+		"experience": false,
+		"project": true,
+		"tags": [
+			"Game Design",
+			"Game Engineering",
+			"Garry's Mod"
+		],
+		"details": [
+			"Created, managed, and developed for the community's first Deathrun server",
+			"Provided exclusive features for the server based on the original gamemode",
+			"Added extra functionality, including an experience and leveling system, to the server",
+			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
+		],
+		"urls": [
+			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Excerpts"]
+		]
+	},
+	{
+		"title": "National Honor Society / Key Club",
+		"start": "2018",
+		"end": "2019",
+		"languages": [],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Outreach",
+			"Leadership",
+			"School Club"
+		],
+		"details": [
+			"NHS President and Key Club Vice President",
+			"Managed a team of students to identify, plan, and implement volunteer projects",
+			"Organized and managed volunteer events our members could attend",
+			"Tracked our members' progress throughout the year to ensure everyone was on track to meet their membership requirements"
+		],
+		"urls": []
+	},
+	{
+		"title": "Sound Engineer",
+		"start": "2016",
+		"end": "2019",
+		"languages": [],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Live Performance",
+			"Collaboration"
+		],
+		"details": [
+			"Worked on live performances and educational talks to ensure sound quality and audibility throughout the space",
+			"Responsible for stage setup, performance, and teardown",
+			"Remained focused in the high pressure, live environment"
+		],
+		"urls": []
+	}
+]

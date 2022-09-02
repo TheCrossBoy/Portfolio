@@ -1,7 +1,7 @@
-<div class="project">
+<div class="project" name="{{title}}">
 	<div class="project-header">
 		<h2>{{title}}</h2>
-		<p>{{date}}</p>
+		<p>{{start}}{{#end}}-{{.}}{{/end}}</p>
 	</div>
 	<ul class="project-tags">
 		{{#languages}}

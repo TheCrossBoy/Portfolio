@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<title>Josh Cross | Portfolio</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,19 +11,20 @@
 		<script src="https://kit.fontawesome.com/eae88bfca3.js" crossorigin="anonymous"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-		<link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="/main.css">
 
 		<script src="main.js"></script>
 	</head>
 	<body>
 		<div id="sidebar">
-			<img src="assets/headshot.jpg" alt="Headshot">
+			<img src="/assets/headshot.jpg" alt="Headshot">
 			<h2>Josh Cross</h2>
 			<h3>Undergraduate Researcher & Computer Science Tutor</h3>
 			<ul id="nav">
 				<li><a href="#"><i class="fas fa-home"></i>Home</a></li>
-				<li><a href="experience.html"><i class="fas fa-address-card"></i>Experience</a></li>
-				<li><a href="projects.html"><i class="fas fa-laptop"></i>Projects</a></li>
+				<li><a href="/experience"><i class="fas fa-address-card"></i>Experience</a></li>
+				<li><a href="/projects"><i class="fas fa-laptop"></i>Projects</a></li>
+				<li><a href="/filter"><i class="fas fa-search"></i>Filter</a></li>
 			</ul>
 			<ul id="links">
 				<li><a href="https://github.com/TheCrossBoy" target="_blank" rel="noopener"><i class="fab fa-github-square"></i></a></li>
@@ -30,6 +32,10 @@
 				<li><a href="https://twitter.com/ItsCrossBoy" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a></li>
 				<li><a href="mailto:jdcross+portfolio@ucsd.edu" target="_blank"><i class="fas fa-envelope-square"></i></a></li>
 			</ul>
+			<div class="mobile" id="sidebar-button">
+				<input type="checkbox" name="sidebar-show" id="sidebar-show">
+				<label for="sidebar-show"><i class="fas fa-bars closed"></i><i class="fas fa-times open"></i></label>
+			</div>
 		</div>
 		<div id="body">
 			<h1>Welcome!</h1>
@@ -42,13 +48,23 @@
 						<p>I'm also currently working on a research project with two professors advising, Niema Moshiri and Tajana Rosing. This project is looking into the COVID-19 Genome Sequencing Pipeline that analyzes COVID data from all of San Diego. Specifically, we identified that a program that takes genomic sequence reads taken from collected samples and trims them was inefficient, and I've been working on reimplementing and optimizing these algorithms to smooth this pipeline. We are currently hoping to have our program sent to a journal at some point in the future!</p>
 						<p>Overall, I'm extremely passionate about Video Games, programming, software development, testing, design, analysis, and more. I do hope that you'll have a look around, and please feel free to reach out to me about anything at any of the social links at the bottom of the left side bar.</p>
 						<p>Thank you!</p>
+						<h1 id="tags">Relevant Skills</h1>	
 					</div>
 					<div id="home-right">
 						<h1>Education</h1>
 						<div class="project">
 							<div class="project-header">
 								<h2>UC San Diego</h2>
-								<p>September 2019 - December 2022 (expected)</p>
+								<p>January 2023 - April 2024 (expected)</p>
+							</div>
+							<ul class="project-tags">
+								<li class="tag">MS Computer Science</li>
+							</ul>
+						</div>
+						<div class="project">
+							<div class="project-header">
+								<h2>UC San Diego</h2>
+								<p>September 2019 - December 2022</p>
 							</div>
 							<ul class="project-tags">
 								<li class="tag">BS Computer Science</li>
@@ -58,17 +74,18 @@
 								<ul class="project-bullets">
 									<li>CSE 100: Advanced Data Structures - Covered advanced data structures, their algorithms, benefits, and weakneses</li>
 									<li>CSE 110: Software Engineering - Introduced to common best practices, organizational models, and team strategies used in industry</li>
-									<li>(Planned for SP22) CSE 125: Software Systemm Design and Implementation - Project course focusing on implementation details of a video game</li>
+									<li>CSE 125: Software Systemm Design and Implementation - Project course focusing on implementation details of a video game</li>
 									<li>CSE 142/L: Introduction to Computer Architecture: A Software Perspective - Introduces concepts relating to how software choices impact how efficiently hardware is utilized. Also includes a lab in which specific programs are optimized for their hardware</li>
 									<li>CSE 167: Computer Graphics - Covers topics relevant to computer graphics, including geometry, 3D graphics systems, lights and shadows, vector graphics, and simulation.</li>
 								</ul>
 							</div>
 						</div>
-						<h1 id="langs">Languages</h1>
+						<h1 id="langs">Programming Languages</h1>
+						
 					</div>
 				</div>
 				<div id="home-lower">
-					<h1 id="tags">Relevant Skills</h1>	
+					
 				</div>
 			</div>
 		</div>
