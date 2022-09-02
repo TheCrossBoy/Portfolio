@@ -344,11 +344,16 @@ body {
 		top: 0;
 		background: rgb(42, 42, 42);
 		width: 300px;
+		-ms-transform: translate(-300px);
+		-webkit-transform: translate(-300px);
 		transform: translate(-300px);
+		-webkit-transition: transform .5s;
 		transition: transform .5s;
 	}
 
 	#sidebar:has(> #sidebar-button > input:checked) {
+		-ms-transform: translate(0);
+		-webkit-transform: translate(0);
 		transform: translate(0px);
 	}
 
