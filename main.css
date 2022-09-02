@@ -319,3 +319,66 @@ body {
 .clickable {
 	cursor: pointer;
 }
+
+/**********/
+/* Mobile */
+/**********/
+
+.mobile {
+	display: none;
+}
+
+@media screen and (max-width: 799px) {
+	.mobile {
+		display: unset;
+	}
+	
+	#sidebar {
+		position: fixed;
+		z-index: 10000;
+		left: 0;
+		top: 0;
+		background: rgb(42, 42, 42);
+		width: 300px;
+		transform: translate(-300px);
+		transition: transform .5s;
+	}
+
+	#sidebar:has(> #sidebar-button > input:checked) {
+		transform: translate(0px);
+	}
+
+	#sidebar-button {
+		position: absolute;
+		left: 300px;
+		top: 0;
+		width: 35px;
+		height: 35px;
+		text-align: center;
+		vertical-align: middle;
+
+		font-size: 30px;
+		padding: 10px;
+		color: var(--light-color);
+
+		padding: 5px;
+
+		background: rgb(42, 42, 42);
+	}
+
+	#sidebar-button > input {
+		display: none;
+	}
+
+	#sidebar-button > input ~ label > .open {
+		display: none;
+	}
+
+	#sidebar-button > input:checked ~ label > .closed {
+		display: none;
+	}
+
+	#sidebar-button > input:checked ~ label > .open {
+		display: unset;
+	}
+}
