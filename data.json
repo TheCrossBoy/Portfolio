@@ -14,12 +14,13 @@
 			"Web Design",
 			"Library Usage"
 		],
-		"details": [
-			"Designed an interface for my Resume website",
-			"Implemented the front and back end of the design",
+		"highlights": [
+			"Created a consistent, front-end design for a website",
+			"Implemented various features into the website, including filtering, mobile view, and more",
 			"Utilized open source libraries to effeciently solve problems",
-			"Utilized a template library to provide automatic generation of pages without any extra coding necessary"
+			"Utilized a template library to provide automatic generation of pages provided data without any extra coding necessary"
 		],
+		"details": "",
 		"urls": [
 			["https://crossboy.xyz", "This Site"],
 			["https://github.com/TheCrossBoy/Portfolio", "Website Codebase"],
@@ -37,11 +38,17 @@
 			"School Club",
 			"Event Planning",
 			"Leadership",
-			"Collaboration"
+			"Collaboration",
+			"Problem Solving"
 		],
-		"details": [
-			"Recruit Officer for the Triton Gaming video game event club at UCSD"
+		"highlights": [
+			"Planned large scale events for the gaming community at UCSD",
+			"Created multiple organizational frameworks to allow consistency between events",
+			"Led the teams responsible for general logistics and inventory management for multiple events",
+			"Created systems to keep track of dozens of pieces of equipment without losing anything",
+			"Managed and moderated the community Discord server of 4,500+ members"
 		],
+		"details": "",
 		"urls": [
 			["https://discord.gg/tritongaming", "Triton Gaming Discord Server"]
 		]
@@ -58,15 +65,17 @@
 		"project": false,
 		"tags": [
 			"Teaching",
-			"Code Review"
+			"Code Review",
+			"Problem Solving"
 		],
-		"details": [
-			"Undergraduate Tutor for the department, holding office hours for over 400 students",
+		"highlights": [
+			"Tutored for three classes: CSE 12 - Basic Data Structures and Object-Oriented Design, CSE 100 - Advanced Data Structures, and CSE 142L - Software Project for Computer Architecture",
+			"Held office hours to assist over 400 students",
 			"Worked to help students through theoretical misconceptions, code problems, and general questions",
-			"Created resources, such as automatic run debugging, to aid in the development process",
-			"Assisted in the course's Discussion section to enhance the learning process",
-			"Tutored for three classes: CSE 12 - Basic Data Structures and Object-Oriented Design, CSE 100 - Advanced Data Structures, and CSE 142L - Software Project for Computer Architecture"
+			"Created resources, such as automatic run debugging, to aid in students' development",
+			"Assisted in the course's Discussion section to enhance the learning process"
 		],
+		"details": "",
 		"urls": []
 	},
 	{
@@ -82,11 +91,17 @@
 			"Game Design",
 			"Class Project",
 			"Code Review",
-			"Collaboration"
+			"Collaboration",
+			"Problem Solving"
 		],
-		"details": [
-			""
+		"highlights": [
+			"Created a 3D, real time, 4 player video game in 10 weeks without an engine",
+			"Collaborated with others in order to produce a product based on a specification",
+			"Learned a new programming language to adapt to the group's decisions",
+			"Added additional functionality to our engine to implement desired features into the game",
+			"Designed multiple 'racechairs', each with different strengths and weaknesses and game feels"
 		],
+		"details": "",
 		"urls": [
 			["https://www.youtube.com/watch?v=iDiPYyJkVA8", "Our Team's Presentation"],
 			["https://chairiots.notion.site/Chairioteers-Web-Page-bf2521783c0a46f7b06b0f072779be0f", "Team Webpage"],
@@ -96,7 +111,7 @@
 	},
 	
 	{
-		"title": "FIX!!!! AmpliPy: Python Variant Calling",
+		"title": "AmpliPy: Python Variant Calling",
 		"start": "2021",
 		"end": "2022",
 		"languages": [
@@ -112,16 +127,14 @@
 			"Optimization",
 			"Collaboration"
 		],
-		"details": [
-			"Familiarized myself with a new codebase to learn its algorithm",
-			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies",
-			"Reduced the data flow in the algorithms to reduce code jumps",
-			"On track to complete the project and will lead to an associated paper being published",
-			"Worked with Professors to complete the program and publish an associated paper",
-			"Researcher on Project doing sequencing and analysis of COVID-19 Genomes to track evolutions",
-			"Reviewed a codebase and reimplemented the algorithms in Python to create a 50% reduction in runtime",
-			"On track to complete the project and will lead to an associated paper being published"
+		"highlights": [
+			"Researched COVID-19 genomics, and how to track the spread of the disease through a population",
+			"Reviewed old code in order to understand its purpose, ineffeciencies, and algorithms",
+			"Reimplemented the algorithms in Python in order to eliminate ineffeciencies resulting in a 50% reduction in runtime",
+			"Worked with Professors and other students to complete the program and refine an associated paper",			
+			"Wrote a paper summarizing the project to capstone it, which can be found below"
 		],
+		"details": "",
 		"urls": [
 			["https://github.com/Niema-Lab/AmpliPy", "AmpliPy Codebase"]
 		]
@@ -138,9 +151,12 @@
 			"Event Planning",
 			"Collaboration"
 		],
-		"details": [
-			"Recruit Officer for the League of Tritons LoL Club at UCSD"
+		"highlights": [
+			"Planned events catering towards the League of Legends community at UCSD",
+			"Managed virtual events bringing the community together in the game",
+			"Managed and moderated the community Discord"
 		],
+		"details": "",
 		"urls": [
 			["https://discord.gg/RV8F95h", "League of Tritons Discord Server"]
 		]
@@ -158,12 +174,14 @@
 			"School Club",
 			"Collaboration"
 		],
-		"details": [
-			"Caster on the broadcast for our Varsity League of Legends team",
+		"highlights": [
+			"Casted for the UCSD Varsity League of Legends collegiate team",
 			"Provided Play by Play shotcalling, live analysis of game state, and retroactive insight into plays",
-			"Participated in the live, evolving ever changing environment on air",
-			"Stayed calm under pressure and kept up with the high stakes, speedy gameplay"
+			"Participated in a live environment with others",
+			"Stayed calm under pressure and kept up with the high stakes, speedy gameplay",
+			"Supported my fellow casters they, and relied on them when I, were in need of assistance"
 		],
+		"details": "",
 		"urls": [
 			["https://www.twitch.tv/ucsdesports", "UCSD ESports Broadcast Twitch Channel"],
 			["https://www.twitch.tv/stephanpnguyen", "Backup Twitch Channel (sometimes streamed here)"]
@@ -179,15 +197,19 @@
 		"project": false,
 		"tags": [
 			"Leadership",
-			"Code Review"
+			"Code Review",
+			"Problem Solving",
+			"Software Engineering"
 		],
-		"details": [
-			"Worked as a mentor for the SPIS Program",
+		"highlights": [
+			"Worked as a mentor for the SPIS Program to dozens of students, including four direct mentees",
 			"Gave advice, help, and support to students as they adjusted to college life and work for the first time",
 			"Assisted with the students' project, giving advice about how best to solve the problems they faced",
 			"Worked with students to help them solve the problems they faced as they coded",
-			"Interacted with the students in fun activities to keep them engaged in the program and excited to start"
+			"Interacted with the students in fun activities to keep them engaged in the program and excited to start",
+			"Updated and managed a Python Discord bot in order to assist in the day-to-day of the camp"
 		],
+		"details": "",
 		"urls": [
 			["http://spis.ucsd.edu/", "SPIS Homepage"],
 			["http://spis.ucsd.edu/highlights.html", "Previous Projects (not currently up to date with this years')"]
@@ -208,14 +230,17 @@
 			"Class Project",
 			"Collaboration",
 			"CI/CD Pipeline",
+			"Code Review",
 			"Unit Testing"
 		],
-		"details": [
-			"Worked with a team to create a project based on the end product goal of a Pomodoro Timer",
-			"Created the initial HTML framework and helped with the design decisions",
+		"highlights": [
+			"Worked with a team to create a project based on a provided specification of a Pomodoro Timer",
+			"Created the initial HTML framework and helped with the design decisions of the app",
 			"Implemented features into the app with Javascript, including a modular settings menu and sound effects",
-			"Participated in weekly reflections, sprints, and planning meetings"
+			"Participated in weekly reflections, sprints, and planning meetings",
+			"Reviewed other students' code and assisted in bug hunting, solving, and advice when they were stuck."
 		],
+		"details": "",
 		"urls": [
 			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Project Site"],
 			["https://github.com/zvidmarb/cse110-w21-group23", "Project Codebase"]
@@ -242,7 +267,7 @@
 			"Garry's Mod",
 			"Collaboration"
 		],
-		"details": [
+		"highlights": [
 			"Worked as a developer on both the Game and Web sides of the community",
 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
 			"Implemented compiled ideas into functional game code",
@@ -250,6 +275,7 @@
 			"Implemented web features, including PayPal donation integration, Discord login, and more",
 			"Created and maintained a Discord bot for the community"
 		],
+		"details": "",
 		"urls": [
 			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
 			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
@@ -273,13 +299,14 @@
 			"Full Stack",
 			"Garry's Mod"
 		],
-		"details": [
+		"highlights": [
 			"Helped with a rewrite of a popular Garry's Mod gamemode Trouble in Terrorist Town",
 			"Assisted in the ideation phase of various in game events, items, features, and functionality",
 			"Implemented assigned ideas into functional game code",
 			"Worked on a live, evolving game product",
 			"Implemented systems such as a chatbox with channels, playercards, a scoreboard, and more"
 		],
+		"details": "",
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Code Excerpts + Photos"],
 			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
@@ -301,11 +328,12 @@
 			"Software Engineering",
 			"Library Usage"
 		],
-		"details": [
+		"highlights": [
 			"Programmed features on a Discord bot using Discord.js",
 			"Maintained the bot and fixed bugs that appeared",
 			"Integrated with the forums and game in order to sync things across the three systems"
 		],
+		"details": "",
 		"urls": [
 			["https://github.com/pluto-oss/styx", "Styx Codebase"]
 		]
@@ -328,17 +356,18 @@
 			"Full Stack",
 			"Library Usage"
 		],
-		"details": [
+		"highlights": [
 			"Learned about the Invision Community Forum API",
 			"Applied the knowledge to create functional front and backend systems for users and administrators",
-			"Created a donation interface using PayPal's transaction API, a player information page, Discord integration, and more"
+			"Created a donation interface using PayPal's transaction API, a player information summary page, Discord integration, and more"
 		],
+		"details": "",
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Code Excerpts + Screenshots"]
 		]
 	},
 	{
-		"title": "FIX!!!!! Robotics Club Programming",
+		"title": "Robotics Club Programming",
 		"start": "2015",
 		"end": "2019",
 		"languages": [
@@ -353,18 +382,16 @@
 			"Software Engineering",
 			"Library Usage"
 		],
-		"details": [
-			"Programmed our High School Robotics Team's robot for our FTC Robotics Competitions for four years",
-			"Created an autonomous section in which the robot read in data from sensors and cameras to move without user control",
-			"Created the user control code in which a player's controller actions were mapped onto robot actions",
-			"Won an award for the programming of the robot",
-			"Worked as Lead Developer for school's Robotics Team for four years",
-			"During my senior year, I was President of the club",
+		"highlights": [
+			"Programmed the Driver Control and Autonomous Motion for our school's FTC Robotics team",
+			"Utilized hardware added by other members in code to make it functional",
+			"Won multiple awards, including for the hardware and software of the robot, awards at regional competitions",
+			"Worked as the Lead Developer for all four years",
+			"Led as President of the club during my final year",
 			"Influenced design decisions of the overall design of our robot",
 			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design",
-			"Won multiple awards, including design awards and programming awards at regional competitions",
-			"Acted as mentor and recruiter to younger students and newer teams to gain interest in robotics and mentor in all aspects of design, execution, and leadership"
 		],
+		"details": "",
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Video"]
 		]
@@ -383,11 +410,12 @@
 			"Game Engineering",
 			"Garry's Mod"
 		],
-		"details": [
+		"highlights": [
 			"Worked as a developer for the community and its servers",
 			"Iterated through various design changes with testers to ensure functional and quality content",
 			"Participated in the ideation phase to construct unique ideas for the servers to utilize"
 		],
+		"details": "",
 		"urls": []
 	},
 	{
@@ -404,12 +432,13 @@
 			"Game Engineering",
 			"Garry's Mod"
 		],
-		"details": [
+		"highlights": [
 			"Created new features for an existing codebase on a Jailbreak server",
 			"Worked with another developer to update, modernize, and beautify old code to work for our needs",
 			"Updated a logs addon to work with Jailbreak",
-			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
+			"<span class=\"italic\">Note, due to the community shutting down and its age, much of this code and content is lost to time. Selections can be found below, but it is not a complete picture.</span>"
 		],
+		"details": "",
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Excerpts"]
 		]
@@ -427,19 +456,20 @@
 			"Game Engineering",
 			"Garry's Mod"
 		],
-		"details": [
+		"highlights": [
 			"Created, managed, and developed for the community's first Deathrun server",
 			"Provided exclusive features for the server based on the original gamemode",
 			"Added extra functionality, including an experience and leveling system, to the server",
-			"<span class=\"italic\">Note, due to the community shutting down, much of this code is lost to time. A selection I wrote is uploaded to the linked Gist.</span>"
+			"<span class=\"italic\">Note, due to the community shutting down and its age, much of this code and content is lost to time. Selections can be found below, but it is not a complete picture.</span>"
 		],
+		"details": "",
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Excerpts"]
 		]
 	},
 	{
 		"title": "National Honor Society / Key Club",
-		"start": "2018",
+		"start": "2016",
 		"end": "2019",
 		"languages": [],
 		"experience": true,
@@ -449,12 +479,13 @@
 			"Leadership",
 			"School Club"
 		],
-		"details": [
-			"NHS President and Key Club Vice President",
+		"highlights": [
+			"Led as the NHS President and Key Club Vice President during my final year",
 			"Managed a team of students to identify, plan, and implement volunteer projects",
 			"Organized and managed volunteer events our members could attend",
 			"Tracked our members' progress throughout the year to ensure everyone was on track to meet their membership requirements"
 		],
+		"details": "",
 		"urls": []
 	},
 	{
@@ -468,11 +499,12 @@
 			"Live Performance",
 			"Collaboration"
 		],
-		"details": [
+		"highlights": [
 			"Worked on live performances and educational talks to ensure sound quality and audibility throughout the space",
 			"Responsible for stage setup, performance, and teardown",
 			"Remained focused in the high pressure, live environment"
 		],
+		"details": "",
 		"urls": []
 	}
 ]
