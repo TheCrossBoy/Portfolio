@@ -5,10 +5,10 @@
 	</div>
 	<ul class="project-tags">
 		{{#languages}}
-			<li class="tag language">{{.}}</li>
+			<a href="/filter/languages/{{.}}"><li class="tag language clickable">{{.}}</li></a>
 		{{/languages}}
 		{{#tags}}
-			<li class="tag">{{.}}</li>
+			<a href="/filter/tags/{{.}}"><li class="tag clickable">{{.}}</li></a>
 		{{/tags}}
 	</ul>
 	<div class="project-details">
