@@ -22,6 +22,7 @@ window.addEventListener("DOMContentLoaded", event => {
 				const lang = document.createElement("li")
 				lang.classList.add("tag")
 				lang.classList.add("language")
+				lang.classList.add("clickable")
 				lang.innerText = language
 				languageList.appendChild(lang)
 			}
@@ -36,6 +37,7 @@ window.addEventListener("DOMContentLoaded", event => {
 			for (tag of tags) {
 				const tagE = document.createElement("li")
 				tagE.classList.add("tag")
+				tagE.classList.add("clickable")
 				tagE.innerText = tag
 				tagList.appendChild(tagE)
 			}

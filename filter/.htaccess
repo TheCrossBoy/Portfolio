@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule "^(.*)filter.js$" filter.js [NC,QSA,L]
+RewriteRule ^(.*)$ index.html [NC,QSA,L]
