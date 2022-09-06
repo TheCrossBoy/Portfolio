@@ -271,6 +271,37 @@ body {
 	margin-left: 10px;
 }
 
+/************/
+/* Features */
+/************/
+
+pre {
+	tab-size: 4;
+}
+
+/* for block of numbers */
+.hljs-ln-numbers {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    text-align: center;
+    color: #ccc;
+    border-right: 1px solid #CCC;
+    vertical-align: top;
+    padding-right: 5px;
+
+    /* your custom style here */
+}
+
+/* for block of code */
+.hljs-ln-code {
+    padding-left: 10px;
+}
+
 /***************/
 /* Filter Page */
 /***************/
@@ -347,6 +378,10 @@ body {
 		-ms-transform: translate(-300px);
 		-webkit-transform: translate(-300px);
 		transform: translate(-300px);
+
+		-moz-transition: transform .5s;
+		-ms-transition: transform .5s;
+		-o-transition: transform .5s;
 		-webkit-transition: transform .5s;
 		transition: transform .5s;
 	}
