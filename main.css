@@ -238,6 +238,10 @@ body {
 	color: white;
 }
 
+.tag.clickable:hover {
+	filter: saturate(200%);
+}
+
 .tag.language.clickable {
 	box-shadow: 2px 2px var(--layer-color), 2px 2px var(--layer-color), 2px 2px var(--accent-color);
 }
@@ -359,6 +363,10 @@ pre {
 
 .tag-container > .tag.selected {
 	filter: grayscale(0%);
+}
+
+.tag-container > .tag.selected:hover {
+	filter: grayscale(50%);
 }
 
 .tag.clear {
