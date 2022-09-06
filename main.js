@@ -24,7 +24,12 @@ window.addEventListener("DOMContentLoaded", event => {
 				lang.classList.add("language")
 				lang.classList.add("clickable")
 				lang.innerText = language
-				languageList.appendChild(lang)
+
+				const link = document.createElement("a")
+				link.href = "/filter/languages/" + language
+				link.appendChild(lang)
+
+				languageList.appendChild(link)
 			}
 
 			$("#langs").after(languageList)
@@ -39,7 +44,12 @@ window.addEventListener("DOMContentLoaded", event => {
 				tagE.classList.add("tag")
 				tagE.classList.add("clickable")
 				tagE.innerText = tag
-				tagList.appendChild(tagE)
+
+				const link = document.createElement("a")
+				link.href = "/filter/tags/" + tag
+				link.appendChild(tagE)
+
+				tagList.appendChild(link)
 			}
 
 			$("#tags").after(tagList)
