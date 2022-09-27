@@ -23,11 +23,11 @@ window.addEventListener("DOMContentLoaded", event => {
 				const $button = $project.find(".project-footer");
 		
 				$button.click(event => {
-					if ($details.css("height") == "0px") {
-						$details.css("height", $details.prop("offsetHeight"));
+					if ($details.css("max-height") == "0px") {
+						$details.css("max-height", $details.prop("scrollHeight") + 20);
 						$button.html(hideDetails);
 					} else {
-						$details.css("height", 0);
+						$details.css("max-height", 0);
 						$button.html(showDetails);
 					}
 				});
