@@ -209,6 +209,11 @@ body {
 	padding: 10px 0 5px 0;
 }
 
+.project-indepth {
+	text-indent: 2ch;
+	padding: 0 5px;
+}
+
 .tag {
 	display: inline-block;
 	background-color: var(--dark-color);
