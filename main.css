@@ -261,6 +261,7 @@ body {
 .project-urls {
 	list-style-type: none;
 	padding-left: 10px;
+	padding-bottom: 5px;
 	margin: 10px 0;
 
 	display: flex;
@@ -274,6 +275,7 @@ body {
 	text-align: center;
 	text-decoration: none;
 	height: 132px;
+	padding-right: 2px;
 }
 
 
