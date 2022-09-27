@@ -23,7 +23,10 @@
 		"HIGHLIGHT_1",
 		"..."
 	],
-	"details": "DETAILS_WITH_HTML",
+	"details": [
+		"DETAIL_P_1",
+		"..."
+	],
 	"urls": [
 		["LINK_1", "LABEL_1" "OPTIONAL_ICON_1"],
 		["LINK_2", "LABL_2"],
