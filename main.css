@@ -113,31 +113,23 @@ body {
 	margin: 0 auto;
 }
 
-#home-body > div {
-	float: left;
-	width: calc((100% - 3 * 40px) / 2 - 1px);
+#home-body {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr;
+	grid-auto-rows: minmax(min-content, max-content);
+	column-gap: 50px;
+
+	position: relative;
 }
 
-#home-left {
-	border-right: 1px solid var(--light-color);
-	margin-left: 40px;
-	padding-right: 20px;
-	height: 100%;
-}
-
-#home-right {
-	padding-left: 20px;
-	margin-right: 40px;
-}
-
-#home-body:after {
-	content: "";
-	display: table;
-	clear: both;
+#home-welcome {
+	margin: 0 10px;
 }
 
 #home-lower {
 	padding: 0 40px;
+	height: 30px;
 }
 
 /***********/
@@ -269,6 +261,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	gap: 15px;
+	overflow-x: scroll;
 }
 
 .project-urls a {
@@ -473,5 +466,43 @@ pre {
 
 	#sidebar-button > input:checked ~ label > .open {
 		display: unset;
+	}
+
+	#body > h1 {
+		text-align: center;
+		font-size: .7in
+	}
+
+	#home-container {
+		width: 95%;
+		min-width: unset;
+		max-width: unset;
+	}
+
+	#home-body {
+		grid-template-columns: 1fr;
+		grid-template-rows: none;
+		grid-auto-rows: minmax(min-content, max-content);
+		column-gap: 50px;
+	
+		position: relative;
+	}
+
+	#projects-container {
+		width: 95%;
+		min-width: unset;
+		max-width: unset;
+	}
+
+	.divider {
+		width: 95%;
+		min-width: unset;
+		max-width: unset;
+	}
+
+	#filters {
+		width: 95%;
+		min-width: unset;
+		max-width: unset;
 	}
 }
