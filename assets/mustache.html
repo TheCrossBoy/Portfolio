@@ -11,17 +11,27 @@
 			<a href="/filter/tags/{{.}}"><li class="tag clickable">{{.}}</li></a>
 		{{/tags}}
 	</ul>
+	<ul class="project-bullets">
+		{{#highlights}}
+			<li>{{{.}}}</li>
+		{{/highlights}}
+	</ul>
 	<div class="project-details">
-		<ul class="project-bullets">
-			{{#highlights}}
-				<li>{{{.}}}</li>
-			{{/highlights}}
-		</ul>
+		<div class="project-indepth">
+			{{{details}}}
+		</div>
+		{{#urls.length}}
 		<ul class="project-urls">
 			{{#urls}}
-				<li><a href="{{0}}" target="_blank" rel="noopener">{{1}}</a></li>
+				<a href="{{0}}" target="_blank" rel="noopener">
+					<li>
+						<i class="{{2}}{{^2}}fas fa-external-link-alt{{/2}}"></i>
+					</li>
+					<span>{{1}}</span>
+				</a>
 			{{/urls}}
 		</ul>
+		{{/urls.length}}
 	</div>
 	<div class="project-footer">
 		<i class="fas fa-caret-down"></i>

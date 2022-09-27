@@ -22,9 +22,8 @@
 		],
 		"details": "",
 		"urls": [
-			["https://crossboy.xyz", "This Site"],
-			["https://github.com/TheCrossBoy/Portfolio", "Website Codebase"],
-			["https://github.com/TheCrossBoy/Portfolio/blob/main/projects.json", "JSON Data Format"]
+			["https://github.com/TheCrossBoy/Portfolio", "Website Repo", "fab fa-github"],
+			["https://github.com/TheCrossBoy/Portfolio/blob/main/data.json", "JSON Data Format"]
 		]
 	},
 	{
@@ -50,7 +49,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://discord.gg/tritongaming", "Triton Gaming Discord Server"]
+			["https://discord.gg/tritongaming", "Community Discord", "fab fa-discord"]
 		]
 	},
 	{
@@ -69,13 +68,13 @@
 			"Problem Solving"
 		],
 		"highlights": [
-			"Tutored for three classes: CSE 12 - Basic Data Structures and Object-Oriented Design, CSE 100 - Advanced Data Structures, and CSE 142L - Software Project for Computer Architecture",
 			"Held office hours to assist over 400 students",
 			"Worked to help students through theoretical misconceptions, code problems, and general questions",
 			"Created resources, such as automatic run debugging, to aid in students' development",
-			"Assisted in the course's Discussion section to enhance the learning process"
+			"Assisted in the course's Discussion section to enhance the learning process",
+			"Lead 30+ tutors as Head Tutor my final quarter, guiding new tutors, setting up course logistics, and assisting when odd tasks needed to be completed."
 		],
-		"details": "",
+		"details": "<p>Through the years, I tutored for a total of three courses. CSE 12: Basic Data STructures and Object Oriented Design, CSE 100: Advanced Data Structures, and CSE 142L: Software Project for Computer Architecture.</p>",
 		"urls": []
 	},
 	{
@@ -104,10 +103,10 @@
 		],
 		"details": "",
 		"urls": [
-			["https://www.youtube.com/watch?v=iDiPYyJkVA8", "Our Team's Presentation"],
+			["https://www.youtube.com/watch?v=iDiPYyJkVA8", "Team Presentation", "fab fa-youtube"],
 			["https://chairiots.notion.site/Chairioteers-Web-Page-bf2521783c0a46f7b06b0f072779be0f", "Team Webpage"],
-			["https://github.com/ucsd-cse125-sp22/cse125-sp22-group1", "Codebase"],
-			["https://chairiots.notion.site/Final-Report-875046aed50043d1a92e1ed669c81c71", "Final Report"]
+			["https://github.com/ucsd-cse125-sp22/cse125-sp22-group1", "Repo", "fab fa-github"],
+			["https://chairiots.notion.site/Final-Report-875046aed50043d1a92e1ed669c81c71", "Final Report", "fas fa-file-alt"]
 		]
 	},
 	
@@ -137,7 +136,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://github.com/Niema-Lab/AmpliPy", "AmpliPy Codebase"]
+			["https://github.com/Niema-Lab/AmpliPy", "AmpliPy Repo", "fab fa-github"]
 		]
 	},
 	{
@@ -159,7 +158,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://discord.gg/RV8F95h", "League of Tritons Discord Server"]
+			["https://discord.gg/RV8F95h", "Community Discord", "fab fa-discord"]
 		]
 	},
 	{
@@ -184,8 +183,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://www.twitch.tv/ucsdesports", "UCSD ESports Broadcast Twitch Channel"],
-			["https://www.twitch.tv/stephanpnguyen", "Backup Twitch Channel (sometimes streamed here)"]
+			["https://www.twitch.tv/ucsdesports", "Broadcast Channel", "fab fa-twitch"]
 		]
 	},
 	{
@@ -213,7 +211,7 @@
 		"details": "",
 		"urls": [
 			["http://spis.ucsd.edu/", "SPIS Homepage"],
-			["http://spis.ucsd.edu/highlights.html", "Previous Projects (not currently up to date with this years')"]
+			["http://spis.ucsd.edu/highlights.html", "Previous Projects", "fas fa-users"]
 		]
 	},
 	{
@@ -243,8 +241,8 @@
 		],
 		"details": "",
 		"urls": [
-			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Project Site"],
-			["https://github.com/zvidmarb/cse110-w21-group23", "Project Codebase"]
+			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Site", "fas fa-stopwatch"],
+			["https://github.com/zvidmarb/cse110-w21-group23", "Group Repo", "fab fa-github"]
 		]
 	},
 	{
@@ -278,10 +276,10 @@
 		],
 		"details": "",
 		"urls": [
-			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
-			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
-			["https://github.com/pluto-oss/styx", "Styx Discord Bot Codebase"],
-			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin System Codebase"]
+			["https://github.com/meepen/tttrw", "Gamemode Repo", "fab fa-github"],
+			["https://github.com/meepen/pluto-inv", "Pluto Content Repo", "fab fa-github"],
+			["https://github.com/pluto-oss/styx", "Discord Bot Repo", "fab fa-github"],
+			["https://github.com/pluto-oss/pluto-admin", "Moderation Repo", "fab fa-github"]
 		]
 	},
 	{
@@ -309,14 +307,14 @@
 		],
 		"details": "",
 		"urls": [
-			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Code Excerpts + Photos"],
-			["https://github.com/meepen/tttrw", "TTTRW Codebase"],
-			["https://github.com/meepen/pluto-inv", "Pluto Inventory + More Codebase"],
-			["https://github.com/pluto-oss/pluto-admin", "Pluto Admin Codebase"]
+			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Project Highlights", "fas fa-meteor"],
+			["https://github.com/meepen/tttrw", "TTTRW Repo", "fab fa-github"],
+			["https://github.com/meepen/pluto-inv", "Pluto Content Repo", "fab fa-github"],
+			["https://github.com/pluto-oss/pluto-admin", "Moderation Repo", "fab fa-github"]
 		]
 	},
 	{
-		"title": "Pluto.gg Styx",
+		"title": "Pluto.gg Styx Discord Bot",
 		"start": "2019",
 		"end": "2021",
 		"languages": [
@@ -336,7 +334,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://github.com/pluto-oss/styx", "Styx Codebase"]
+			["https://github.com/pluto-oss/styx", "Styx Repo", "fab fa-github"]
 		]
 	},
 	{
@@ -364,7 +362,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Code Excerpts + Screenshots"]
+			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Project Highlights", "fab fa-github"]
 		]
 	},
 	{
@@ -394,7 +392,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Video"]
+			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Video", "fas fa-meteor"]
 		]
 	},
 	{
@@ -441,7 +439,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Excerpts"]
+			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Highlights", "fas fa-meteor"]
 		]
 	},
 	{
@@ -465,7 +463,7 @@
 		],
 		"details": "",
 		"urls": [
-			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Excerpts"]
+			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Highlights", "fas fa-meteor"]
 		]
 	},
 	{
