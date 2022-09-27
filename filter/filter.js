@@ -135,7 +135,7 @@ window.addEventListener("DOMContentLoaded", event => {
 		
 				$button.click(event => {
 					if ($details.css("height") == "0px") {
-						$details.css("height", $details.prop("scrollHeight"));
+						$details.css("height", $details.prop("offsetHeight"));
 						$button.html(hideDetails);
 					} else {
 						$details.css("height", 0);
