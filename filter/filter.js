@@ -17,7 +17,7 @@ const url_lang_filters = new Set();
 
 function set_defaults() {
 	$(".tag").removeClass("selected");
-	$("input:checkbox").prop("checked", true);
+	$("input:checkbox.filter_type").prop("checked", true);
 	cur_filters = {
 		type: b => $projects.checked && b["project"] || $experience.checked && b["experience"]
 	};
