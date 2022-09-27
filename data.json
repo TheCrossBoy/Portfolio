@@ -20,7 +20,7 @@
 			"Utilized open source libraries to effeciently solve problems",
 			"Utilized a template library to provide automatic generation of pages provided data without any extra coding necessary"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://github.com/TheCrossBoy/Portfolio", "Website Repo", "fab fa-github"],
 			["https://github.com/TheCrossBoy/Portfolio/blob/main/data.json", "JSON Data Format"]
@@ -47,7 +47,7 @@
 			"Created systems to keep track of dozens of pieces of equipment without losing anything",
 			"Managed and moderated the community Discord server of 4,500+ members"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://discord.gg/tritongaming", "Community Discord", "fab fa-discord"]
 		]
@@ -74,7 +74,9 @@
 			"Assisted in the course's Discussion section to enhance the learning process",
 			"Lead 30+ tutors as Head Tutor my final quarter, guiding new tutors, setting up course logistics, and assisting when odd tasks needed to be completed."
 		],
-		"details": "<p>Through the years, I tutored for a total of three courses. CSE 12: Basic Data STructures and Object Oriented Design, CSE 100: Advanced Data Structures, and CSE 142L: Software Project for Computer Architecture.</p>",
+		"details": [
+			"Through the years, I tutored for a total of three courses. These were CSE 12: Basic Data Structures and Object Oriented Design, CSE 100: Advanced Data Structures, and CSE 142L: Software Project for Computer Architecture."
+		],
 		"urls": []
 	},
 	{
@@ -101,7 +103,7 @@
 			"Added additional functionality to our engine to implement desired features into the game",
 			"Designed multiple 'racechairs', each with different strengths and weaknesses and game feels"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://www.youtube.com/watch?v=iDiPYyJkVA8", "Team Presentation", "fab fa-youtube"],
 			["https://chairiots.notion.site/Chairioteers-Web-Page-bf2521783c0a46f7b06b0f072779be0f", "Team Webpage"],
@@ -134,8 +136,9 @@
 			"Worked with Professors and other students to complete the program and refine an associated paper",			
 			"Wrote a paper summarizing the project to capstone it, which can be found below"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
+			["https://docs.google.com/document/d/e/2PACX-1vQL5dSx5b7DACDaawkgQ2wbd5s-KacMN6xKeq_96rsF7bI4_fP--86bqqXgOEHCoze5Rg4DSZRjBuPI/pub", "Finished Paper", "fas fa-file-contract"],
 			["https://github.com/Niema-Lab/AmpliPy", "AmpliPy Repo", "fab fa-github"]
 		]
 	},
@@ -156,7 +159,7 @@
 			"Managed virtual events bringing the community together in the game",
 			"Managed and moderated the community Discord"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://discord.gg/RV8F95h", "Community Discord", "fab fa-discord"]
 		]
@@ -181,7 +184,7 @@
 			"Stayed calm under pressure and kept up with the high stakes, speedy gameplay",
 			"Supported my fellow casters they, and relied on them when I, were in need of assistance"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://www.twitch.tv/ucsdesports", "Broadcast Channel", "fab fa-twitch"]
 		]
@@ -208,7 +211,7 @@
 			"Interacted with the students in fun activities to keep them engaged in the program and excited to start",
 			"Updated and managed a Python Discord bot in order to assist in the day-to-day of the camp"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["http://spis.ucsd.edu/", "SPIS Homepage"],
 			["http://spis.ucsd.edu/highlights.html", "Previous Projects", "fas fa-users"]
@@ -239,7 +242,7 @@
 			"Participated in weekly reflections, sprints, and planning meetings",
 			"Reviewed other students' code and assisted in bug hunting, solving, and advice when they were stuck."
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://zvidmarb.github.io/cse110-w21-group23/", "Production Site", "fas fa-stopwatch"],
 			["https://github.com/zvidmarb/cse110-w21-group23", "Group Repo", "fab fa-github"]
@@ -274,7 +277,7 @@
 			"Implemented web features, including PayPal donation integration, Discord login, and more",
 			"Created and maintained a Discord bot for the community"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://github.com/meepen/tttrw", "Gamemode Repo", "fab fa-github"],
 			["https://github.com/meepen/pluto-inv", "Pluto Content Repo", "fab fa-github"],
@@ -305,7 +308,7 @@
 			"Worked on a live, evolving game product",
 			"Implemented systems such as a chatbox with channels, playercards, a scoreboard, and more"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/08a99992c7b58fd09043ebba7f96ab17", "Project Highlights", "fas fa-meteor"],
 			["https://github.com/meepen/tttrw", "TTTRW Repo", "fab fa-github"],
@@ -332,7 +335,7 @@
 			"Maintained the bot and fixed bugs that appeared",
 			"Integrated with the forums and game in order to sync things across the three systems"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://github.com/pluto-oss/styx", "Styx Repo", "fab fa-github"]
 		]
@@ -360,7 +363,7 @@
 			"Applied the knowledge to create functional front and backend systems for users and administrators",
 			"Created a donation interface using PayPal's transaction API, a player information summary page, Discord integration, and more"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/d0324fe45b6b3b1324284120a93ca3f1", "Project Highlights", "fab fa-github"]
 		]
@@ -390,7 +393,7 @@
 			"Influenced design decisions of the overall design of our robot",
 			"Kept development logs, made reflections about our codebase, and constructed a notebook that described all the details of our design"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/79a6df9273385a8df069f0775adb547e", "Code Excerpts + Video", "fas fa-meteor"]
 		]
@@ -414,7 +417,11 @@
 			"Iterated through various design changes with testers to ensure functional and quality content",
 			"Participated in the ideation phase to construct unique ideas for the servers to utilize"
 		],
-		"details": "",
+		"details": [
+			"This gaming community is where I truly fell in love with game development. The primary developer for the community took me under his wing, allowing me to learn more about programming by working alongside me.",
+			"While I started with fairly simple changes, lots of oversight, and limited access to the source code, over time, I was granted full access to the servers and source code, permission to make changes without seeking specific approvals, and even given my own server to make my own. I proved myself trustworthy and invaluable to the community, and worked with them until the community unfortunately shut down.",
+			"At its peak, our community's Jailbreak server was the most popular Jailbreak server on Garry's Mod. Even when other competition popped up, we were still consistently able to maintain activity for the majority of the server's lifetime."
+		],
 		"urls": []
 	},
 	{
@@ -435,9 +442,9 @@
 			"Created new features for an existing codebase on a Jailbreak server",
 			"Worked with another developer to update, modernize, and beautify old code to work for our needs",
 			"Updated a logs addon to work with Jailbreak",
-			"<span class=\"italic\">Note, due to the community shutting down and its age, much of this code and content is lost to time. Selections can be found below, but it is not a complete picture.</span>"
+			"<span class=\"italic\">Note, due to the community shutting down and its age, much of this code and content is lost to time. Selections can be found below, but it is not an all encompassing summary.</span>"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/b08f69f19a58e37b9a4c56c53213e1c1", "Code Highlights", "fas fa-meteor"]
 		]
@@ -459,9 +466,9 @@
 			"Created, managed, and developed for the community's first Deathrun server",
 			"Provided exclusive features for the server based on the original gamemode",
 			"Added extra functionality, including an experience and leveling system, to the server",
-			"<span class=\"italic\">Note, due to the community shutting down and its age, much of this code and content is lost to time. Selections can be found below, but it is not a complete picture.</span>"
+			"<span class=\"italic\">Note, due to the community shutting down and its age, much of this code and content is lost to time. Selections can be found below, but it is not an all encompassing summary.</span>"
 		],
-		"details": "",
+		"details": [],
 		"urls": [
 			["https://gist.github.com/TheCrossBoy/8da35bba119a223cb5fdfdfe48bd68e6", "Code Highlights", "fas fa-meteor"]
 		]
@@ -480,11 +487,15 @@
 		],
 		"highlights": [
 			"Led as the NHS President and Key Club Vice President during my final year",
-			"Managed a team of students to identify, plan, and implement volunteer projects",
-			"Organized and managed volunteer events our members could attend",
-			"Tracked our members' progress throughout the year to ensure everyone was on track to meet their membership requirements"
+			"Managed a team of 60+ students to identify, plan, and implement volunteer projects",
+			"Organized and managed 20+ volunteer events our members could attend",
+			"Tracked our members' attendance throughout the year to ensure everyone was on track to meet their membership requirements"
 		],
-		"details": "",
+		"details": [
+			"I volunteered for these groups for as long as I was able to - a total of 2.5 years for NHS, and roughly 4 for Key Club. Throughout my tenure, I participated in numerous volunteering activities in an effort to give back to my community.", 
+			"In my senior year, I wanted to step up and lead the clubs that I had participated in for such a long time. I was elected president in NHS, and Vice-President in Key Club. In these positions, I came up with ideas for new volunteering events, rekindled relationships with existing partners, and conducted administrative tasks for the clubs.",
+			"In particular, while President of NHS, I created a specialized spreadsheet to track the event completions and hours of work done by each member. Our club had a specific hour requirement for members, and previously, the teacher advisor had to keep track of them on paper, causing students who weren't sure exactly how many hours they had to have to ask her, and creating a large area of possible data loss. With the spreadsheet, I made it as easy as possible for anyone to enter in the data, created a view into the data for students to track their progress, and made it easy for the teacher advisor to monitor the students' progress to completing all requirements."
+		],
 		"urls": []
 	},
 	{
@@ -503,7 +514,9 @@
 			"Responsible for stage setup, performance, and teardown",
 			"Remained focused in the high pressure, live environment"
 		],
-		"details": "",
+		"details": [
+			"Being someone who was in love with technology, I jumped at the opportunity to volunteer with the sound systems that my school used for weeklky events. As one of the  'sound engineers', I ensured that the performers on stage were always able to be heard throughout the space. This required me learning about sound mixing, multiple pieces of new hardware/technology I had never used before, and solve problems as they came up. I was able to flourish in this environment, and continued doing it until I graduated."
+		],
 		"urls": []
 	}
 ]

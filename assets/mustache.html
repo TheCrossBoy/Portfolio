@@ -18,7 +18,9 @@
 	</ul>
 	<div class="project-details">
 		<div class="project-indepth">
-			{{{details}}}
+			{{#details}}
+				<p>{{{.}}}</p>
+			{{/details}}
 		</div>
 		{{#urls.length}}
 		<ul class="project-urls">
