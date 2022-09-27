@@ -32,7 +32,7 @@ window.addEventListener("DOMContentLoaded", event => {
 				languageList.appendChild(link)
 			}
 
-			$("#langs").after(languageList)
+			$("#home-langs").append(languageList)
 		}
 
 		if (tags.length > 0) {
@@ -52,7 +52,7 @@ window.addEventListener("DOMContentLoaded", event => {
 				tagList.appendChild(link)
 			}
 
-			$("#tags").after(tagList)
+			$("#home-tags").append(tagList)
 		}
 	})
 })
