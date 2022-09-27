@@ -273,7 +273,7 @@ body {
 	color: var(--link-color);
 	text-align: center;
 	text-decoration: none;
-	height: 130px;
+	height: 132px;
 }
 
 
@@ -289,6 +289,8 @@ body {
 
 	width: 120px;
 	height: 120px;
+
+	box-shadow: 2px 2px var(--layer-color), 2px 2px var(--layer-color), 2px 2px var(--layer-color);
 }
 
 .project-urls li i {
