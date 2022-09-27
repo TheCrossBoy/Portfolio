@@ -141,7 +141,7 @@ window.addEventListener("DOMContentLoaded", event => {
 						$details.css("height", 0);
 						$button.html(showDetails);
 					}
-				})
+				});
 			}
 
 			// Type filter
