@@ -61,6 +61,7 @@ body {
 #sidebar h3 {
 	text-align: center;
 	padding: 0 30px;
+	font-weight: normal;
 }
 
 /**************/
@@ -126,7 +127,6 @@ body {
 #home-welcome {
 	margin: 0 10px;
 	text-align: justify;
-	text-indent: 2ch;
 }
 
 .tag-explainer {
