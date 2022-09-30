@@ -125,6 +125,8 @@ body {
 
 #home-welcome {
 	margin: 0 10px;
+	text-align: justify;
+	text-indent: 2ch;
 }
 
 .tag-explainer {
