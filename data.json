@@ -1,5 +1,53 @@
 [
 	{
+		"title": "Corporate Clash - Game Developer",
+		"start": "2023",
+		"end": "Ongoing",
+		"languages": [
+			"Python"
+		],
+		"experience": true,
+		"project": true,
+		"tags": [
+			"Game Engineering",
+			"Game Design",
+			"Collaboration",
+			"Library Usage"
+		],
+		"highlights": [
+			"Worked on a live service game with 1,000 concurrent players daily",
+			"Designed and implemented new features for the game",
+			"Assessed feedback from the community, considering what features were worth the development time"
+		],
+		"details": [
+		],
+		"urls": ["https://corporateclash.net/", "Corporate Clash"]
+	},{
+		"title": "UC San Diego Computer Science Department - TA",
+		"start": "2023",
+		"end": "Ongoing",
+		"languages": [
+			"C++",
+			"C"
+		],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Teaching",
+			"Code Review",
+			"Problem Solving"
+		],
+		"highlights": [
+			"Led class sections of 100+ students, presenting information to them in new ways and offering guidance on assignments",
+			"Held office hours to assist over 400 students",
+			"Led and advised a team of 30+ tutors"
+		],
+		"details": [
+			"As a Teaching Assistant, I was honored to continue my work with Niema Moshiri in his Advanced Data Structures course."
+		],
+		"urls": []
+	},
+	{
 		"title": "Portfolio Website",
 		"start": "2021",
 		"end": "Ongoing",
@@ -55,9 +103,9 @@
 		]
 	},
 	{
-		"title": "UC San Diego Computer Science Department",
-		"start": "2021",
-		"end": "Ongoing",
+		"title": "UC San Diego Computer Science Department - Tutor",
+		"start": "Winter 2021",
+		"end": "Fall 2022",
 		"languages": [
 			"C++",
 			"C"
