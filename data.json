@@ -15,37 +15,17 @@
 			"Library Usage"
 		],
 		"highlights": [
-			"Worked on a live service game with 1,000 concurrent players daily",
-			"Designed and implemented new features for the game",
-			"Assessed feedback from the community, considering what features were worth the development time"
+			"Created features for a live-service MMORPG with 700+ daily players",
+			"Worked independently on assignments within teams with dozens of interdisciplinary members",
+			"Communicated with non-technical departments in order to accomplish shared goals",
+			"Created fun, imaginative cutscenes and implemented them into the game"
 		],
 		"details": [
 		],
-		"urls": ["https://corporateclash.net/", "Corporate Clash"]
-	},{
-		"title": "UC San Diego Computer Science Department - TA",
-		"start": "2023",
-		"end": "Ongoing",
-		"languages": [
-			"C++",
-			"C"
-		],
-		"experience": true,
-		"project": false,
-		"tags": [
-			"Teaching",
-			"Code Review",
-			"Problem Solving"
-		],
-		"highlights": [
-			"Led class sections of 100+ students, presenting information to them in new ways and offering guidance on assignments",
-			"Held office hours to assist over 400 students",
-			"Led and advised a team of 30+ tutors"
-		],
-		"details": [
-			"As a Teaching Assistant, I was honored to continue my work with Niema Moshiri in his Advanced Data Structures course."
-		],
-		"urls": []
+		"urls": [
+			["https://corporateclash.net/", "Corporate Clash"],
+			["https://youtu.be/Vcc9PQ_WXuE", "Cutscene Work", "fab fa-youtube"]
+		]
 	},
 	{
 		"title": "Portfolio Website",
@@ -101,6 +81,31 @@
 		"urls": [
 			["https://discord.gg/tritongaming", "Community Discord", "fab fa-discord"]
 		]
+	},
+	
+	{
+		"title": "UC San Diego Computer Science Department - TA",
+		"start": "2023",
+		"end": "2023",
+		"languages": [
+			"C++",
+		],
+		"experience": true,
+		"project": false,
+		"tags": [
+			"Teaching",
+			"Code Review",
+			"Problem Solving"
+		],
+		"highlights": [
+			"Led class sections of 100+ students, presenting information to them in new ways and offering guidance on assignments",
+			"Held office hours to assist over 400 students",
+			"Led and advised a team of 30+ tutors"
+		],
+		"details": [
+			"As a Teaching Assistant, I was honored to continue my work with Niema Moshiri in his Advanced Data Structures course."
+		],
+		"urls": []
 	},
 	{
 		"title": "UC San Diego Computer Science Department - Tutor",
